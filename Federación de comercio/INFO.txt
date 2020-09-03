@@ -4,4 +4,4 @@ Borde			230 230 60
 Rareza común 		107 107 107
 Fuente título		Harvest	24px
 Fuente descripciones	Arial 	14px
-Fuente tipo		18px
+Fuente tipo		500px
