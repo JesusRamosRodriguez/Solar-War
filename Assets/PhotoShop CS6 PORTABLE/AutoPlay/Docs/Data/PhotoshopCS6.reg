@@ -1,0 +1,420 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\1DAA38168C5A]
+@="C515FB4271859FF9E830D30751DD7594C878F30C"
+
+[HKEY_CURRENT_USER\Software\Adobe\6211D8F70137]
+@="8AB3FA4C895477B85309AB7CF1FD7AFB7C1378A4"
+
+[HKEY_CURRENT_USER\Software\Adobe\67D2C05A87F7]
+@="20E492710762EFB041D80B00BC51C0A06702DE38"
+
+[HKEY_CURRENT_USER\Software\Adobe\795F7143369D]
+@="8116A8F9F397755E134060C9EEDF04EAF4C87E3E"
+
+[HKEY_CURRENT_USER\Software\Adobe\A1705A244AE7]
+@="F1B1790F842C834A792C281127283A05736D1F5A"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Distiller]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Distiller\DC]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM\1.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe ARM\1.0\ARM]
+"iSpeedLauncherLogonTime"=hex(b):6b,f9,b8,66,a7,47,d6,01
+
+[HKEY_CURRENT_USER\Software\Adobe\C4E225D1975F]
+@="B77FD2CD9FC7DB7C641B36C377EA6C4520C2BA48"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="6a95d26b-8442-4486-8afa-4833dc9a71a1"
+"Agent"="C:\\Users\\Ernesto\\Downloads\\Photoshop CS6\\AutoPlay\\Docs\\App\\PhotoshopCS6\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"OptIn"=dword:00000000
+"Date"="2013-05-10T23:19:35Z"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Adobe Photoshop CS6_13.0]
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\CSXS.3]
+"LogLevel"="1"
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\ComponentsPanelCategories]
+"Flex"="FALSE"
+"User Interface"="FALSE"
+"Video"="FALSE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\PublishFormatProperties]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\PublishGifProperties]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\PublishHtmlProperties]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\PublishJpegProperties]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\PublishPNGProperties]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\PublishProfileProperties]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\PublishQTProperties]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\PublishRNWKProperties]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\Settings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\VectorDefault]
+
+[HKEY_CURRENT_USER\Software\Adobe\Flash 12\Workspace]
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="EFC67146D4EA67B61F569E302FE35614"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-10T17:55:29.3741Z]
+@="C:\\Users\\USUARIO\\Desktop\\novaskin-minecraft-wallpaper.jpeg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-17T06:30:32.6020Z]
+@="C:\\Users\\USUARIO\\Desktop\\hqdefault.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-17T09:45:40.7450Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-17_10.16.06.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-18T10:58:18.3900Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-18_10.09.50.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-18T11:02:17.6461Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-18_10.09.57.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-18T11:04:49.2342Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-18_10.11.53.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-18T11:10:37.3073Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-18_10.11.58.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-18T11:13:02.5574Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-18_10.12.54.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-18T11:13:10.5725Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-18_10.13.03.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-18T11:13:35.1486Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-18_10.13.34.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-18T11:22:23.4877Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-18_10.13.38.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-24T08:27:39.4370Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-24_09.26.29.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-24T08:27:41.4381Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-24_09.26.36.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-24T08:27:49.2712Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-02-24_09.26.16.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-24T08:35:36.1193Z]
+@="C:\\Users\\USUARIO\\Desktop\\local_e6ede3e781e306b9ca0de0aa93ba1b30_3D.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-24T08:35:36.3594Z]
+@="C:\\Users\\USUARIO\\Desktop\\local_fc33e1c264b30f5ab8e4087efb991231_3D.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T12:02:03.5400Z]
+@="C:\\Users\\USUARIO\\Desktop\\clownfish.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T12:02:04.2861Z]
+@="C:\\Users\\USUARIO\\Desktop\\clownfish_bucket.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T12:02:04.9532Z]
+@="C:\\Users\\USUARIO\\Desktop\\cod.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T12:02:05.3963Z]
+@="C:\\Users\\USUARIO\\Desktop\\cod_bucket.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T12:02:13.6884Z]
+@="C:\\Users\\USUARIO\\Desktop\\pufferfish.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T12:02:14.565Z]
+@="C:\\Users\\USUARIO\\Desktop\\pufferfish_bucket.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T12:02:19.1386Z]
+@="C:\\Users\\USUARIO\\Desktop\\salmon.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T12:02:19.5607Z]
+@="C:\\Users\\USUARIO\\Desktop\\salmon_bucket.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-02-25T13:14:49.8290Z]
+@="C:\\Users\\USUARIO\\Desktop\\IMG_24022018_120500_0.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-03-03T23:26:20.5460Z]
+@="C:\\Users\\USUARIO\\AppData\\Roaming\\.minecraft\\screenshots\\2018-03-03_00.04.45.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-03-03T23:30:24.2901Z]
+@="C:\\Users\\USUARIO\\Desktop\\API.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-03-03T23:30:31.9642Z]
+@="C:\\Users\\USUARIO\\Desktop\\Vegetta.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-03-03T23:32:58.8723Z]
+@="F:\\YOUTUBE\\TODO EDITAR\\MI GFX.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-03-06T20:10:10.8970Z]
+@="C:\\Users\\USUARIO\\Desktop\\sparta356exe.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-03-06T20:13:00.2381Z]
+@="C:\\Users\\USUARIO\\Desktop\\srbigos.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2018-03-06T20:21:56.62Z]
+@="C:\\Users\\USUARIO\\Desktop\\Norti.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:34:59.1130Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo animacion\\1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:37:26.1091Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo animacion\\2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:37:29.5642Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo animacion\\3.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:37:30.5203Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo animacion\\4.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:37:31.3494Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo animacion\\5.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:37:32.6126Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo animacion\\7.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:37:32.9797Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo animacion\\8.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:39:31.8950Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Final\\1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:39:32.4481Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Final\\2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:39:32.9885Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Final\\6.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:39:33.1396Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Final\\7.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T17:39:33.2737Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Final\\8.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T19:06:05.1742Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Final\\3.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T19:23:03.5204Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Final\\4.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T19:39:36.7936Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Final\\5.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T19:55:28.65210Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo animacion\\6.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T20:17:50.8811Z]
+@="C:\\Users\\jesus\\Desktop\\Proyecto 2D\\Cangrejo 2.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T20:17:51.1602Z]
+@="C:\\Users\\jesus\\Desktop\\Proyecto 2D\\Cangrejo 3.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T20:17:51.3343Z]
+@="C:\\Users\\jesus\\Desktop\\Proyecto 2D\\Cangrejo 4.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T20:17:51.4994Z]
+@="C:\\Users\\jesus\\Desktop\\Proyecto 2D\\Cangrejo 5.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T20:17:51.6515Z]
+@="C:\\Users\\jesus\\Desktop\\Proyecto 2D\\Cangrejo 6.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T20:17:51.8326Z]
+@="C:\\Users\\jesus\\Desktop\\Proyecto 2D\\Cangrejo 7.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T20:17:52.67Z]
+@="C:\\Users\\jesus\\Desktop\\Proyecto 2D\\Cangrejo 8.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-14T20:59:11.1860Z]
+@="C:\\Users\\jesus\\Desktop\\Proyecto 2D\\Cangrejo1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2019-12-17T16:52:48.7150Z]
+@="D:\\Trabajo\\Tercero\\Arte\\Proyecto2D\\characters\\pez_ataque.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-01T17:42:47.2600Z]
+@="D:\\Mis Cosas\\Private\\Fotos fin de año 2019\\DSC_0804.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-01T17:50:52.4170Z]
+@="D:\\Mis Cosas\\Private\\Fotos fin de año 2019\\DSC_0796.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-01T17:51:41.9431Z]
+@="D:\\Mis Cosas\\Private\\Fotos fin de año 2019\\potochop\\yoliYBlasa.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-01T18:11:03.1180Z]
+@="D:\\Mis Cosas\\Private\\Fotos fin de año 2019\\potochop\\DSC_0805.JPG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-02T17:13:30.3140Z]
+@="D:\\Trabajo\\Tercero\\Arte\\DisparoPenguin.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-04T16:40:17.3350Z]
+@="D:\\Mis Cosas\\Private\\RegaloVictoria2020\\paisaje2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-04T16:42:39.4552Z]
+@="D:\\Mis Cosas\\Private\\RegaloVictoria2020\\Datos_reserva.PNG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-04T16:44:45.2173Z]
+@="D:\\Mis Cosas\\Private\\RegaloVictoria2020\\bandera.PNG"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-04T16:53:51.4284Z]
+@="D:\\Mis Cosas\\Private\\RegaloVictoria2020\\corazones1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-04T17:10:37.1120Z]
+@="D:\\Mis Cosas\\Private\\RegaloVictoria2020\\RegaloVictoria.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-06T12:42:38.1370Z]
+@="D:\\Mis Cosas\\esperanza1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-06T12:54:24.6490Z]
+@="D:\\Mis Cosas\\esperanza2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-12T12:31:52.7771Z]
+@="C:\\Users\\jesus\\Downloads\\IMG-20200112-WA0023.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-12T12:33:13.332Z]
+@="C:\\Users\\jesus\\Downloads\\IMG-20200112-WA0023.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-17T11:40:51.9820Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Anticipacion reaccion\\IMG20200113195828.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-17T11:46:44.9871Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Anticipacion reaccion\\Final.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-17T11:49:37.7572Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Anticipacion reaccion\\IMG20200113195849.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-19T18:15:52.4750Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Anticipacion reaccion\\gif.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-19T18:16:48.7681Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Cangrejo caminando\\Cangrejo_andar.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-19T18:26:34.5862Z]
+@="D:\\Trabajo\\Tercero\\Arte\\2D\\Anticipacion reaccion\\gifmejorado.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-19T21:55:54.2570Z]
+@="C:\\Users\\jesus\\Downloads\\Animaciones\\Orca\\1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-19T21:55:55.613Z]
+@="C:\\Users\\jesus\\Downloads\\Animaciones\\Orca\\4.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-19T21:57:51.9515Z]
+@="C:\\Users\\jesus\\Downloads\\Animaciones\\Orca\\2.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-01-19T21:58:36.5176Z]
+@="C:\\Users\\jesus\\Downloads\\Animaciones\\Orca\\3.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-04-18T10:48:52.6560Z]
+@="C:\\Users\\jesus\\Downloads\\IMG20200418114544.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-04-18T10:48:53.6491Z]
+@="C:\\Users\\jesus\\Downloads\\IMG20200418114455.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-04-18T10:48:54.612Z]
+@="C:\\Users\\jesus\\Downloads\\IMG20200418114552.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-05-27T10:17:33.2820Z]
+@="D:\\Trabajo\\Tercero\\2ºCuatrimestre\\P3\\RetroRunner-P3\\RetroRunner\\WeirdEngine\\WeirdEngine\\exes\\resources\\textures\\Suelo1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-05-27T11:41:59.5120Z]
+@="D:\\Trabajo\\Tercero\\2ºCuatrimestre\\P3\\RetroRunner-P3\\RetroRunner\\WeirdEngine\\WeirdEngine\\exes\\resources\\textures\\Suelo2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-05-27T12:30:06.1730Z]
+@="D:\\Trabajo\\Blender proyecto\\Suelo1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-05-28T19:19:53.5880Z]
+@="D:\\Trabajo\\Blender proyecto\\SueloBordes1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-05-28T19:21:36.6531Z]
+@="D:\\Trabajo\\Blender proyecto\\SueloBordes2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-06-21T08:54:11.9930Z]
+@="D:\\Trabajo\\Tercero\\2ºCuatrimestre\\IA_2020\\Proyecto Final\\Grid.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-06-21T09:03:34.663Z]
+@="D:\\Trabajo\\Tercero\\2ºCuatrimestre\\IA_2020\\Proyecto Final\\Movimiento1-1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-06-22T11:11:25.4020Z]
+@="D:\\Trabajo\\Tercero\\2ºCuatrimestre\\IA_2020\\Proyecto Final\\sentidos.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-08-27T13:50:54.4450Z]
+@="D:\\Mis Cosas\\Mis Proyectos\\Proyecto David-Jesus 2020\\Slay the Porro\\Assets Externos\\Tablero_1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-08-28T13:58:33.3860Z]
+@="D:\\Mis Cosas\\Mis Proyectos\\Proyecto David-Jesus 2020\\Slay the Porro\\Assets\\Cards\\Images\\Default2.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-08-28T15:17:05.3630Z]
+@="D:\\Mis Cosas\\Mis Proyectos\\Proyecto David-Jesus 2020\\Slay the Porro\\Assets Externos\\Card_base v 1.0.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-08-28T16:10:04.3940Z]
+@="D:\\Mis Cosas\\Mis Proyectos\\Proyecto David-Jesus 2020\\Slay the Porro\\Assets\\Cards\\Card_base_v1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-08-28T16:32:27.6140Z]
+@="D:\\Mis Cosas\\Mis Proyectos\\Proyecto David-Jesus 2020\\Slay the Porro\\Assets\\Cards\\Card_shadow.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-09-02T21:48:18.5721Z]
+@="D:\\Mis Cosas\\Mis Proyectos\\Cachaza no lo ha pensao\\Federación de comercio\\Célula de energía.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-09-02T22:00:01.7974Z]
+@="D:\\Mis Cosas\\Mis Proyectos\\Cachaza no lo ha pensao\\Federación de comercio\\Carta.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-09-02T22:27:03.1905Z]
+@="D:\\Mis Cosas\\Mis Proyectos\\Cachaza no lo ha pensao\\Federación de comercio\\Reactor.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000000
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[613,239,1296,1080]"
+"ScratchWarningSeen"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="D:\\Mis Cosas\\Mis Proyectos\\Cachaza no lo ha pensao\\Federación de comercio\\"

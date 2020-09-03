@@ -1,0 +1,7607 @@
+%!Adobe-FontList 1.09
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Marlett
+FamilyName:Marlett
+StyleName:Regular
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Marlett
+WritingScript:Roman
+WinName:Marlett
+FileLength:27724
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+WinName:Arial
+FileLength:1036584
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arial Bold
+WritingScript:Roman
+WinName:Arial Negrita
+FileLength:980756
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Arial-BoldItalicMT
+FamilyName:Arial
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Arial Bold Italic
+WritingScript:Roman
+WinName:Arial Negrita Cursiva
+FileLength:721144
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Arial-ItalicMT
+FamilyName:Arial
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Arial Italic
+WritingScript:Roman
+WinName:Arial Cursiva
+FileLength:717428
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial
+StyleName:Black
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Arial Black
+WritingScript:Roman
+WinName:Arial Black Normal
+FileLength:167592
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift Light
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift SemiLight
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift Regular
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift Bold
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift SemiBold
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift Light SemiCondensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift SemiLight SemiCondensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift SemiCondensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift Bold SemiCondensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift SemiBold SemiCondensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift Light Condensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift SemiLight Condensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift Condensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift Bold Condensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bahnschrift
+WritingScript:Roman
+WinName:Bahnschrift SemiBold Condensed
+FileLength:323004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Calibri
+WritingScript:Roman
+WinName:Calibri
+FileLength:1572076
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Calibri Bold
+WritingScript:Roman
+WinName:Calibri Bold
+FileLength:1540504
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Calibri-BoldItalic
+FamilyName:Calibri
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Calibri Bold Italic
+WritingScript:Roman
+WinName:Calibri Bold Italic
+FileLength:1080204
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Calibri-Italic
+FamilyName:Calibri
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Calibri Italic
+WritingScript:Roman
+WinName:Calibri Italic
+FileLength:1120284
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Calibri-Light
+FamilyName:Calibri
+StyleName:Light
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Calibri Light
+WritingScript:Roman
+WinName:Calibri Light
+FileLength:1372424
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Calibri-LightItalic
+FamilyName:Calibri
+StyleName:Light Italic
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Calibri Light Italic
+WritingScript:Roman
+WinName:Calibri Light Italic
+FileLength:987056
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Cambria
+FamilyName:Cambria
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cambria
+WritingScript:Roman
+WinName:Cambria
+FileLength:1792632
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Cambria-Bold
+FamilyName:Cambria
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Cambria Bold
+WritingScript:Roman
+WinName:Cambria Bold
+FileLength:841440
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Cambria-BoldItalic
+FamilyName:Cambria
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Cambria Bold Italic
+WritingScript:Roman
+WinName:Cambria Bold Italic
+FileLength:856672
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Cambria-Italic
+FamilyName:Cambria
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Cambria Italic
+WritingScript:Roman
+WinName:Cambria Italic
+FileLength:892620
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CambriaMath
+FamilyName:Cambria Math
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cambria Math
+WritingScript:Roman
+WinName:Cambria Math
+FileLength:1792284
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Candara
+FamilyName:Candara
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Candara
+WritingScript:Roman
+WinName:Candara
+FileLength:219532
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Candara-Bold
+FamilyName:Candara
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Candara Bold
+WritingScript:Roman
+WinName:Candara Bold
+FileLength:227604
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Candara-BoldItalic
+FamilyName:Candara
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Candara Bold Italic
+WritingScript:Roman
+WinName:Candara Bold Italic
+FileLength:229364
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Candara-Italic
+FamilyName:Candara
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Candara Italic
+WritingScript:Roman
+WinName:Candara Italic
+FileLength:227648
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Candara-Light
+FamilyName:Candara
+StyleName:Light
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Candara Light
+WritingScript:Roman
+WinName:Candara Light
+FileLength:122132
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Candara-LightItalic
+FamilyName:Candara
+StyleName:Light Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Candara Light Italic
+WritingScript:Roman
+WinName:Candara Light Italic
+FileLength:120996
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ComicSansMS
+FamilyName:Comic Sans MS
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Comic Sans MS
+WritingScript:Roman
+WinName:Comic Sans MS
+FileLength:245600
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ComicSansMS-Bold
+FamilyName:Comic Sans MS
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Comic Sans MS Bold
+WritingScript:Roman
+WinName:Comic Sans MS Negrita
+FileLength:229408
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ComicSansMS-BoldItalic
+FamilyName:Comic Sans MS
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Comic Sans MS Bold Italic
+WritingScript:Roman
+WinName:Comic Sans MS Negrita Cursiva
+FileLength:224252
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ComicSansMS-Italic
+FamilyName:Comic Sans MS
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Comic Sans MS Italic
+WritingScript:Roman
+WinName:Comic Sans MS Cursiva
+FileLength:226708
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Consolas
+FamilyName:Consolas
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Consolas
+WritingScript:Roman
+WinName:Consolas
+FileLength:459180
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Consolas-Bold
+FamilyName:Consolas
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Consolas Bold
+WritingScript:Roman
+WinName:Consolas Bold
+FileLength:397896
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Consolas-BoldItalic
+FamilyName:Consolas
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Consolas Bold Italic
+WritingScript:Roman
+WinName:Consolas Bold Italic
+FileLength:407956
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Consolas-Italic
+FamilyName:Consolas
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Consolas Italic
+WritingScript:Roman
+WinName:Consolas Italic
+FileLength:467584
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Constantia
+FamilyName:Constantia
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Constantia
+WritingScript:Roman
+WinName:Constantia
+FileLength:448376
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Constantia-Bold
+FamilyName:Constantia
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Constantia Bold
+WritingScript:Roman
+WinName:Constantia Bold
+FileLength:451824
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Constantia-BoldItalic
+FamilyName:Constantia
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Constantia Bold Italic
+WritingScript:Roman
+WinName:Constantia Bold Italic
+FileLength:455564
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Constantia-Italic
+FamilyName:Constantia
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Constantia Italic
+WritingScript:Roman
+WinName:Constantia Italic
+FileLength:448748
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Corbel
+FamilyName:Corbel
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Corbel
+WritingScript:Roman
+WinName:Corbel
+FileLength:275372
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Corbel-Bold
+FamilyName:Corbel
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Corbel Bold
+WritingScript:Roman
+WinName:Corbel Bold
+FileLength:288264
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Corbel-BoldItalic
+FamilyName:Corbel
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Corbel Bold Italic
+WritingScript:Roman
+WinName:Corbel Bold Italic
+FileLength:292928
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Corbel-Italic
+FamilyName:Corbel
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Corbel Italic
+WritingScript:Roman
+WinName:Corbel Italic
+FileLength:283172
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CorbelLight
+FamilyName:Corbel
+StyleName:Light
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Corbel Light
+WritingScript:Roman
+WinName:Corbel Light
+FileLength:172256
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CorbelLight-Italic
+FamilyName:Corbel
+StyleName:Light Italic
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Corbel Light Italic
+WritingScript:Roman
+WinName:Corbel Light Italic
+FileLength:169228
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CourierNewPSMT
+FamilyName:Courier New
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Courier New
+WritingScript:Roman
+WinName:Courier New
+FileLength:806504
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CourierNewPS-BoldMT
+FamilyName:Courier New
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Courier New Bold
+WritingScript:Roman
+WinName:Courier New Negrita
+FileLength:805244
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CourierNewPS-BoldItalicMT
+FamilyName:Courier New
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Courier New Bold Italic
+WritingScript:Roman
+WinName:Courier New Negrita Cursiva
+FileLength:577488
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CourierNewPS-ItalicMT
+FamilyName:Courier New
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Courier New Italic
+WritingScript:Roman
+WinName:Courier New Cursiva
+FileLength:667440
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ebrima
+FamilyName:Ebrima
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ebrima
+WritingScript:Roman
+WinName:Ebrima
+FileLength:876232
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ebrima-Bold
+FamilyName:Ebrima
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Ebrima Bold
+WritingScript:Roman
+WinName:Ebrima Negrita
+FileLength:916908
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-Medium
+FamilyName:Franklin Gothic Medium
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Franklin Gothic Medium
+WritingScript:Roman
+WinName:Franklin Gothic Medium
+FileLength:133632
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-MediumItalic
+FamilyName:Franklin Gothic Medium
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Franklin Gothic Medium Italic
+WritingScript:Roman
+WinName:Franklin Gothic Medium Cursiva
+FileLength:148728
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Gabriola
+FamilyName:Gabriola
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gabriola
+WritingScript:Roman
+WinName:Gabriola
+FileLength:1806004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Gadugi
+FamilyName:Gadugi
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gadugi
+WritingScript:Roman
+WinName:Gadugi
+FileLength:247240
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Gadugi-Bold
+FamilyName:Gadugi
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Gadugi Bold
+WritingScript:Roman
+WinName:Gadugi Bold
+FileLength:244912
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Georgia
+FamilyName:Georgia
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Georgia
+WritingScript:Roman
+WinName:Georgia
+FileLength:219712
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Georgia-Bold
+FamilyName:Georgia
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Georgia Bold
+WritingScript:Roman
+WinName:Georgia Negrita
+FileLength:207476
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Georgia-BoldItalic
+FamilyName:Georgia
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Georgia Bold Italic
+WritingScript:Roman
+WinName:Georgia Negrita Cursiva
+FileLength:211780
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Georgia-Italic
+FamilyName:Georgia
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Georgia Italic
+WritingScript:Roman
+WinName:Georgia Cursiva
+FileLength:208444
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Impact
+FamilyName:Impact
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Impact
+WritingScript:Roman
+WinName:Impact
+FileLength:206784
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:InkFree
+FamilyName:Ink Free
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ink Free
+WritingScript:Roman
+WinName:Ink Free
+FileLength:41164
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:JavaneseText
+FamilyName:Javanese Text
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Javanese Text
+WritingScript:Roman
+WinName:Javanese Text
+FileLength:304068
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LeelawadeeUI
+FamilyName:Leelawadee UI
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Leelawadee UI
+FamilyNameNative:Leelawadee UI
+StyleNameNative:Regular
+FullNameNative:Leelawadee UI Regular
+WritingScript:Thai
+WinName:Leelawadee UI
+FileLength:393764
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LeelawadeeUI-Bold
+FamilyName:Leelawadee UI
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Leelawadee UI Bold
+FamilyNameNative:Leelawadee UI
+StyleNameNative:Bold
+FullNameNative:Leelawadee UI Bold
+WritingScript:Thai
+WinName:Leelawadee UI Negrita
+FileLength:327420
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LeelawadeeUI-Semilight
+FamilyName:Leelawadee UI
+StyleName:Semilight
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Leelawadee UI Semilight
+FamilyNameNative:Leelawadee UI Semilight
+StyleNameNative:Semilight
+FullNameNative:Leelawadee UI Semilight Semilight
+WritingScript:Thai
+WinName:Leelawadee UI Semilight Normal
+FileLength:386264
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaConsole
+FamilyName:Lucida Console
+StyleName:Regular
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:Lucida Console
+WritingScript:Roman
+WinName:Lucida Console
+FileLength:111108
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSansUnicode
+FamilyName:Lucida Sans Unicode
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lucida Sans Unicode
+WritingScript:Roman
+WinName:Lucida Sans Unicode
+FileLength:309516
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MalgunGothic
+FamilyName:Malgun Gothic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Malgun Gothic
+FamilyNameNative:맑은 고딕
+StyleNameNative:Regular
+FullNameNative:맑은 고딕
+WritingScript:Korean
+WinName:Malgun Gothic
+FileLength:13457164
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MalgunGothicBold
+FamilyName:Malgun Gothic
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Malgun Gothic Bold
+FamilyNameNative:맑은 고딕
+StyleNameNative:Bold
+FullNameNative:맑은 고딕 Bold
+WritingScript:Korean
+WinName:Malgun Gothic Bold
+FileLength:12598360
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MalgunGothic-Semilight
+FamilyName:Malgun Gothic
+StyleName:Semilight
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Malgun Gothic Semilight
+FamilyNameNative:맑은 고딕
+StyleNameNative:Semilight
+FullNameNative:맑은 고딕 Semilight
+WritingScript:Korean
+WinName:Malgun Gothic Semilight
+FileLength:5083156
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Microsoft-Himalaya
+FamilyName:Microsoft Himalaya
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft Himalaya
+WritingScript:Roman
+WinName:Microsoft Himalaya
+FileLength:572776
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftJhengHeiRegular
+FamilyName:Microsoft JhengHei
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft JhengHei
+FamilyNameNative:微軟正黑體
+StyleNameNative:Regular
+FullNameNative:微軟正黑體
+WritingScript:TraditionalChinese
+WinName:Microsoft JhengHei
+FileLength:21402120
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftJhengHeiBold
+FamilyName:Microsoft JhengHei
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Microsoft JhengHei Bold
+FamilyNameNative:微軟正黑體
+StyleNameNative:Bold
+FullNameNative:微軟正黑體 Bold
+WritingScript:TraditionalChinese
+WinName:Microsoft JhengHei Negrita
+FileLength:14439384
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftJhengHeiUIRegular
+FamilyName:Microsoft JhengHei UI
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft JhengHei UI
+FamilyNameNative:Microsoft JhengHei UI
+StyleNameNative:Regular
+FullNameNative:Microsoft JhengHei UI Regular
+WritingScript:TraditionalChinese
+WinName:Microsoft JhengHei UI
+FileLength:21401708
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftJhengHeiUIBold
+FamilyName:Microsoft JhengHei UI
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Microsoft JhengHei UI Bold
+FamilyNameNative:Microsoft JhengHei UI
+StyleNameNative:Bold
+FullNameNative:Microsoft JhengHei UI Bold
+WritingScript:TraditionalChinese
+WinName:Microsoft JhengHei UI Negrita
+FileLength:14438972
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftJhengHeiLight
+FamilyName:Microsoft JhengHei
+StyleName:Light
+WeightClass:290
+WidthClass:5
+AngleClass:0
+FullName:Microsoft JhengHei Light
+FamilyNameNative:微軟正黑體
+StyleNameNative:Light
+FullNameNative:微軟正黑體 Light
+WritingScript:TraditionalChinese
+WinName:Microsoft JhengHei Light
+FileLength:12875708
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftJhengHeiUILight
+FamilyName:Microsoft JhengHei UI
+StyleName:Light
+WeightClass:290
+WidthClass:5
+AngleClass:0
+FullName:Microsoft JhengHei UI Light
+FamilyNameNative:Microsoft JhengHei UI
+StyleNameNative:Light
+FullNameNative:Microsoft JhengHei UI Light
+WritingScript:TraditionalChinese
+WinName:Microsoft JhengHei UI Light
+FileLength:12875296
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftNewTaiLue
+FamilyName:Microsoft New Tai Lue
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft New Tai Lue
+WritingScript:Roman
+WinName:Microsoft New Tai Lue
+FileLength:74464
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftNewTaiLue-Bold
+FamilyName:Microsoft New Tai Lue
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Microsoft New Tai Lue Bold
+WritingScript:Roman
+WinName:Microsoft New Tai Lue Bold
+FileLength:67168
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftPhagsPa
+FamilyName:Microsoft PhagsPa
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft PhagsPa
+WritingScript:Roman
+WinName:Microsoft PhagsPa
+FileLength:93720
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftPhagsPa-Bold
+FamilyName:Microsoft PhagsPa
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Microsoft PhagsPa Bold
+WritingScript:Roman
+WinName:Microsoft PhagsPa Bold
+FileLength:97476
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftSansSerif
+FamilyName:Microsoft Sans Serif
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft Sans Serif
+WritingScript:Roman
+WinName:Microsoft Sans Serif
+FileLength:876080
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftTaiLe
+FamilyName:Microsoft Tai Le
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft Tai Le
+WritingScript:Roman
+WinName:Microsoft Tai Le
+FileLength:67568
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftTaiLe-Bold
+FamilyName:Microsoft Tai Le
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Microsoft Tai Le Bold
+WritingScript:Roman
+WinName:Microsoft Tai Le Bold
+FileLength:58532
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftYaHei
+FamilyName:Microsoft YaHei
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft YaHei
+FamilyNameNative:微软雅黑
+StyleNameNative:Regular
+FullNameNative:微软雅黑
+WritingScript:SimplifiedChinese
+WinName:Microsoft YaHei
+FileLength:19647704
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftYaHei-Bold
+FamilyName:Microsoft YaHei
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Microsoft YaHei Bold
+FamilyNameNative:微软雅黑
+StyleNameNative:Bold
+FullNameNative:微软雅黑 Bold
+WritingScript:SimplifiedChinese
+WinName:Microsoft YaHei Negrita
+FileLength:16829084
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftYaHeiUI
+FamilyName:Microsoft YaHei UI
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft YaHei UI
+FamilyNameNative:Microsoft YaHei UI
+StyleNameNative:Regular
+FullNameNative:Microsoft YaHei UI Regular
+WritingScript:SimplifiedChinese
+WinName:Microsoft YaHei UI
+FileLength:19647292
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftYaHeiUI-Bold
+FamilyName:Microsoft YaHei UI
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Microsoft YaHei UI Bold
+FamilyNameNative:Microsoft YaHei UI
+StyleNameNative:Bold
+FullNameNative:Microsoft YaHei UI Bold
+WritingScript:SimplifiedChinese
+WinName:Microsoft YaHei UI Negrita
+FileLength:16828672
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftYaHeiLight
+FamilyName:Microsoft YaHei
+StyleName:Light
+WeightClass:290
+WidthClass:5
+AngleClass:0
+FullName:Microsoft YaHei Light
+FamilyNameNative:微软雅黑
+StyleNameNative:Light
+FullNameNative:微软雅黑 Light
+WritingScript:SimplifiedChinese
+WinName:Microsoft YaHei Light
+FileLength:12139348
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MicrosoftYaHeiUILight
+FamilyName:Microsoft YaHei UI
+StyleName:Light
+WeightClass:290
+WidthClass:5
+AngleClass:0
+FullName:Microsoft YaHei UI Light
+FamilyNameNative:Microsoft YaHei UI
+StyleNameNative:Light
+FullNameNative:Microsoft YaHei UI Light
+WritingScript:SimplifiedChinese
+WinName:Microsoft YaHei UI Light
+FileLength:12138936
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Microsoft-Yi-Baiti
+FamilyName:Microsoft Yi Baiti
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Microsoft Yi Baiti
+WritingScript:Roman
+WinName:Microsoft Yi Baiti
+FileLength:301180
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MingLiU-ExtB
+FamilyName:MingLiU-ExtB
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MingLiU-ExtB
+FamilyNameNative:細明體-ExtB
+StyleNameNative:Regular
+FullNameNative:細明體-ExtB
+WritingScript:TraditionalChinese
+WinName:MingLiU-ExtB
+FileLength:36786368
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PMingLiU-ExtB
+FamilyName:PMingLiU-ExtB
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PMingLiU-ExtB
+FamilyNameNative:新細明體-ExtB
+StyleNameNative:Regular
+FullNameNative:新細明體-ExtB
+WritingScript:TraditionalChinese
+WinName:PMingLiU-ExtB
+FileLength:36786068
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ming-Lt-HKSCS-ExtB
+FamilyName:MingLiU_HKSCS-ExtB
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MingLiU_HKSCS-ExtB
+FamilyNameNative:細明體_HKSCS-ExtB
+StyleNameNative:Regular
+FullNameNative:細明體_HKSCS-ExtB
+WritingScript:TraditionalChinese
+WinName:MingLiU_HKSCS-ExtB
+FileLength:36785768
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MongolianBaiti
+FamilyName:Mongolian Baiti
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Mongolian Baiti
+WritingScript:Roman
+WinName:Mongolian Baiti
+FileLength:289052
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MS-Gothic
+FamilyName:MS Gothic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MS Gothic
+FamilyNameNative:ＭＳ ゴシック
+StyleNameNative:標準
+FullNameNative:ＭＳ ゴシック
+WritingScript:Japanese
+WinName:MS Gothic
+FileLength:9214656
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MS-UIGothic
+FamilyName:MS UI Gothic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MS UI Gothic
+FamilyNameNative:MS UI Gothic
+StyleNameNative:標準
+FullNameNative:MS UI Gothic 標準
+WritingScript:Japanese
+WinName:MS UI Gothic
+FileLength:9214276
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MS-PGothic
+FamilyName:MS PGothic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MS PGothic
+FamilyNameNative:ＭＳ Ｐゴシック
+StyleNameNative:標準
+FullNameNative:ＭＳ Ｐゴシック
+WritingScript:Japanese
+WinName:MS PGothic
+FileLength:9213880
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MVBoli
+FamilyName:MV Boli
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:MV Boli
+WritingScript:Roman
+WinName:MV Boli
+FileLength:78272
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MyanmarText
+FamilyName:Myanmar Text
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Myanmar Text
+WritingScript:Roman
+WinName:Myanmar Text
+FileLength:355292
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MyanmarText-Bold
+FamilyName:Myanmar Text
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Myanmar Text Bold
+WritingScript:Roman
+WinName:Myanmar Text Bold
+FileLength:335368
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NirmalaUI
+FamilyName:Nirmala UI
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nirmala UI
+WritingScript:Roman
+WinName:Nirmala UI
+FileLength:1448112
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NirmalaUI-Bold
+FamilyName:Nirmala UI
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Nirmala UI Bold
+WritingScript:Roman
+WinName:Nirmala UI Negrita
+FileLength:1402304
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NirmalaUI-Semilight
+FamilyName:Nirmala UI
+StyleName:Semilight
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Nirmala UI Semilight
+WritingScript:Roman
+WinName:Nirmala UI Semilight
+FileLength:1487800
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PalatinoLinotype-Roman
+FamilyName:Palatino Linotype
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Palatino Linotype
+WritingScript:Roman
+WinName:Palatino Linotype
+FileLength:472284
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PalatinoLinotype-Bold
+FamilyName:Palatino Linotype
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Palatino Linotype Bold
+WritingScript:Roman
+WinName:Palatino Linotype Negrita
+FileLength:419932
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PalatinoLinotype-BoldItalic
+FamilyName:Palatino Linotype
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Palatino Linotype Bold Italic
+WritingScript:Roman
+WinName:Palatino Linotype Negrita Cursiva
+FileLength:335292
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PalatinoLinotype-Italic
+FamilyName:Palatino Linotype
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Palatino Linotype Italic
+WritingScript:Roman
+WinName:Palatino Linotype Cursiva
+FileLength:413708
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeMDL2Assets
+FamilyName:Segoe MDL2 Assets
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Segoe MDL2 Assets
+WritingScript:Roman
+WinName:Segoe MDL2 Assets
+FileLength:237668
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoePrint
+FamilyName:Segoe Print
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Segoe Print
+WritingScript:Roman
+WinName:Segoe Print
+FileLength:168404
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoePrint-Bold
+FamilyName:Segoe Print
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Segoe Print Bold
+WritingScript:Roman
+WinName:Segoe Print Bold
+FileLength:167800
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeScript
+FamilyName:Segoe Script
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Segoe Script
+WritingScript:Roman
+WinName:Segoe Script
+FileLength:596948
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeScript-Bold
+FamilyName:Segoe Script
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Segoe Script Bold
+WritingScript:Roman
+WinName:Segoe Script Bold
+FileLength:581252
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI
+FamilyName:Segoe UI
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI
+WritingScript:Roman
+WinName:Segoe UI
+FileLength:925736
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-Bold
+FamilyName:Segoe UI
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI Bold
+WritingScript:Roman
+WinName:Segoe UI Negrita
+FileLength:914092
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-BoldItalic
+FamilyName:Segoe UI
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Segoe UI Bold Italic
+WritingScript:Roman
+WinName:Segoe UI Negrita Cursiva
+FileLength:528476
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-Italic
+FamilyName:Segoe UI
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Segoe UI Italic
+WritingScript:Roman
+WinName:Segoe UI Cursiva
+FileLength:514920
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUIBlack
+FamilyName:Segoe UI
+StyleName:Black
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI Black
+WritingScript:Roman
+WinName:Segoe UI Black
+FileLength:324452
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUIBlack-Italic
+FamilyName:Segoe UI
+StyleName:Black Italic
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Segoe UI Black Italic
+WritingScript:Roman
+WinName:Segoe UI Black Italic
+FileLength:351896
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUIEmoji
+FamilyName:Segoe UI Emoji
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI Emoji
+WritingScript:Roman
+WinName:Segoe UI Emoji
+FileLength:1796396
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUIHistoric
+FamilyName:Segoe UI Historic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI Historic
+WritingScript:Roman
+WinName:Segoe UI Historic
+FileLength:1400724
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-Light
+FamilyName:Segoe UI
+StyleName:Light
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI Light
+WritingScript:Roman
+WinName:Segoe UI Light
+FileLength:878372
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-LightItalic
+FamilyName:Segoe UI
+StyleName:Light Italic
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Segoe UI Light Italic
+WritingScript:Roman
+WinName:Segoe UI Light Italic
+FileLength:445872
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-Semibold
+FamilyName:Segoe UI
+StyleName:Semibold
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI Semibold
+WritingScript:Roman
+WinName:Segoe UI Semibold
+FileLength:941172
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-SemiboldItalic
+FamilyName:Segoe UI
+StyleName:Semibold Italic
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Segoe UI Semibold Italic
+WritingScript:Roman
+WinName:Segoe UI Semibold Italic
+FileLength:443880
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-Semilight
+FamilyName:Segoe UI
+StyleName:Semilight
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI Semilight
+WritingScript:Roman
+WinName:Segoe UI Semilight
+FileLength:816540
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUI-SemilightItalic
+FamilyName:Segoe UI
+StyleName:Semilight Italic
+WeightClass:350
+WidthClass:5
+AngleClass:1
+FullName:Segoe UI Semilight Italic
+WritingScript:Roman
+WinName:Segoe UI Semilight Italic
+FileLength:453264
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SegoeUISymbol
+FamilyName:Segoe UI Symbol
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Segoe UI Symbol
+WritingScript:Roman
+WinName:Segoe UI Symbol
+FileLength:2454728
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SimSun
+FamilyName:SimSun
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:SimSun
+FamilyNameNative:宋体
+StyleNameNative:常规
+FullNameNative:宋体
+WritingScript:SimplifiedChinese
+WinName:SimSun
+FileLength:18214440
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NSimSun
+FamilyName:NSimSun
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:NSimSun
+FamilyNameNative:新宋体
+StyleNameNative:常规
+FullNameNative:新宋体
+WritingScript:SimplifiedChinese
+WinName:NSimSun
+FileLength:18214060
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SimSun-ExtB
+FamilyName:SimSun-ExtB
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:SimSun-ExtB
+FamilyNameNative:SimSun-ExtB
+StyleNameNative:Regular
+FullNameNative:SimSun-ExtB Regular
+WritingScript:SimplifiedChinese
+WinName:SimSun-ExtB
+FileLength:17064180
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaSmall
+FamilyName:Sitka
+StyleName:Small
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sitka Small
+WritingScript:Roman
+WinName:Sitka Small
+FileLength:945568
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaSmall-Bold
+FamilyName:Sitka
+StyleName:Small Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Sitka Small Bold
+WritingScript:Roman
+WinName:Sitka Small Bold
+FileLength:933924
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaSmall-BoldItalic
+FamilyName:Sitka
+StyleName:Small Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Sitka Small Bold Italic
+WritingScript:Roman
+WinName:Sitka Small Bold Italic
+FileLength:980248
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaSmall-Italic
+FamilyName:Sitka
+StyleName:Small Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Sitka Small Italic
+WritingScript:Roman
+WinName:Sitka Small Italic
+FileLength:990680
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaText
+FamilyName:Sitka
+StyleName:Text
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sitka Text
+WritingScript:Roman
+WinName:Sitka Text
+FileLength:945252
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaText-Bold
+FamilyName:Sitka
+StyleName:Text Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Sitka Text Bold
+WritingScript:Roman
+WinName:Sitka Text Bold
+FileLength:933608
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaText-BoldItalic
+FamilyName:Sitka
+StyleName:Text Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Sitka Text Bold Italic
+WritingScript:Roman
+WinName:Sitka Text Bold Italic
+FileLength:979932
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaText-Italic
+FamilyName:Sitka
+StyleName:Text Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Sitka Text Italic
+WritingScript:Roman
+WinName:Sitka Text Italic
+FileLength:990364
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaSubheading
+FamilyName:Sitka
+StyleName:Subheading
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sitka Subheading
+WritingScript:Roman
+WinName:Sitka Subheading
+FileLength:944936
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaSubheading-Bold
+FamilyName:Sitka
+StyleName:Subheading Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Sitka Subheading Bold
+WritingScript:Roman
+WinName:Sitka Subheading Bold
+FileLength:933292
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaSubheading-BoldItalic
+FamilyName:Sitka
+StyleName:Subheading Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Sitka Subheading Bold Italic
+WritingScript:Roman
+WinName:Sitka Subheading Bold Italic
+FileLength:979616
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaSubheading-Italic
+FamilyName:Sitka
+StyleName:Subheading Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Sitka Subheading Italic
+WritingScript:Roman
+WinName:Sitka Subheading Italic
+FileLength:990048
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaHeading
+FamilyName:Sitka
+StyleName:Heading
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sitka Heading
+WritingScript:Roman
+WinName:Sitka Heading
+FileLength:944620
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaHeading-Bold
+FamilyName:Sitka
+StyleName:Heading Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Sitka Heading Bold
+WritingScript:Roman
+WinName:Sitka Heading Bold
+FileLength:932976
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaHeading-BoldItalic
+FamilyName:Sitka
+StyleName:Heading Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Sitka Heading Bold Italic
+WritingScript:Roman
+WinName:Sitka Heading Bold Italic
+FileLength:979300
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaHeading-Italic
+FamilyName:Sitka
+StyleName:Heading Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Sitka Heading Italic
+WritingScript:Roman
+WinName:Sitka Heading Italic
+FileLength:989732
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaDisplay
+FamilyName:Sitka
+StyleName:Display
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sitka Display
+WritingScript:Roman
+WinName:Sitka Display
+FileLength:944304
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaDisplay-Bold
+FamilyName:Sitka
+StyleName:Display Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Sitka Display Bold
+WritingScript:Roman
+WinName:Sitka Display Bold
+FileLength:932660
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaDisplay-BoldItalic
+FamilyName:Sitka
+StyleName:Display Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Sitka Display Bold Italic
+WritingScript:Roman
+WinName:Sitka Display Bold Italic
+FileLength:978984
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaDisplay-Italic
+FamilyName:Sitka
+StyleName:Display Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Sitka Display Italic
+WritingScript:Roman
+WinName:Sitka Display Italic
+FileLength:989416
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaBanner
+FamilyName:Sitka
+StyleName:Banner
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sitka Banner
+WritingScript:Roman
+WinName:Sitka Banner
+FileLength:943988
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaBanner-Bold
+FamilyName:Sitka
+StyleName:Banner Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Sitka Banner Bold
+WritingScript:Roman
+WinName:Sitka Banner Bold
+FileLength:932344
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaBanner-BoldItalic
+FamilyName:Sitka
+StyleName:Banner Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Sitka Banner Bold Italic
+WritingScript:Roman
+WinName:Sitka Banner Bold Italic
+FileLength:978668
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SitkaBanner-Italic
+FamilyName:Sitka
+StyleName:Banner Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Sitka Banner Italic
+WritingScript:Roman
+WinName:Sitka Banner Italic
+FileLength:989100
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Sylfaen
+FamilyName:Sylfaen
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sylfaen
+WritingScript:Roman
+WinName:Sylfaen
+FileLength:256528
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SymbolMT
+FamilyName:Symbol
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Symbol
+WritingScript:Roman
+WinName:Symbol
+FileLength:69036
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Tahoma
+FamilyName:Tahoma
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tahoma
+WritingScript:Roman
+WinName:Tahoma
+FileLength:939280
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Tahoma-Bold
+FamilyName:Tahoma
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Tahoma Bold
+WritingScript:Roman
+WinName:Tahoma Negrita
+FileLength:867988
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman
+WritingScript:Roman
+WinName:Times New Roman
+FileLength:1195688
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-BoldMT
+FamilyName:Times New Roman
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman Bold
+WritingScript:Roman
+WinName:Times New Roman Negrita
+FileLength:1175904
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-BoldItalicMT
+FamilyName:Times New Roman
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Times New Roman Bold Italic
+WritingScript:Roman
+WinName:Times New Roman Negrita Cursiva
+FileLength:881860
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-ItalicMT
+FamilyName:Times New Roman
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Times New Roman Italic
+WritingScript:Roman
+WinName:Times New Roman Cursiva
+FileLength:940288
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TrebuchetMS
+FamilyName:Trebuchet MS
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Trebuchet MS
+WritingScript:Roman
+WinName:Trebuchet MS
+FileLength:254396
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TrebuchetMS-Bold
+FamilyName:Trebuchet MS
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Trebuchet MS Bold
+WritingScript:Roman
+WinName:Trebuchet MS Negrita
+FileLength:244124
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Trebuchet-BoldItalic
+FamilyName:Trebuchet MS
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Trebuchet MS Bold Italic
+WritingScript:Roman
+WinName:Trebuchet MS Negrita Cursiva
+FileLength:225868
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TrebuchetMS-Italic
+FamilyName:Trebuchet MS
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Trebuchet MS Italic
+WritingScript:Roman
+WinName:Trebuchet MS Cursiva
+FileLength:252224
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Verdana
+FamilyName:Verdana
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Verdana
+WritingScript:Roman
+WinName:Verdana
+FileLength:243304
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Verdana-Bold
+FamilyName:Verdana
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Verdana Bold
+WritingScript:Roman
+WinName:Verdana Negrita
+FileLength:211260
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Verdana-BoldItalic
+FamilyName:Verdana
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Verdana Bold Italic
+WritingScript:Roman
+WinName:Verdana Negrita Cursiva
+FileLength:229800
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Verdana-Italic
+FamilyName:Verdana
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Verdana Italic
+WritingScript:Roman
+WinName:Verdana Cursiva
+FileLength:223268
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Webdings
+FamilyName:Webdings
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Webdings
+WritingScript:Roman
+WinName:Webdings
+FileLength:120560
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings
+WritingScript:Roman
+WinName:Wingdings
+FileLength:82180
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothic-Regular
+FamilyName:Yu Gothic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic Regular
+FamilyNameNative:游ゴシック
+StyleNameNative:Regular
+FullNameNative:游ゴシック Regular
+WritingScript:Japanese
+WinName:Yu Gothic Regular
+FileLength:13697336
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothic-Bold
+FamilyName:Yu Gothic
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic Bold
+FamilyNameNative:游ゴシック
+StyleNameNative:Bold
+FullNameNative:游ゴシック Bold
+WritingScript:Japanese
+WinName:Yu Gothic Bold
+FileLength:14544656
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothicUI-Regular
+FamilyName:Yu Gothic UI
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic UI Regular
+FamilyNameNative:Yu Gothic UI
+StyleNameNative:Regular
+FullNameNative:Yu Gothic UI Regular
+WritingScript:Japanese
+WinName:Yu Gothic UI Regular
+FileLength:13761748
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothicUI-Bold
+FamilyName:Yu Gothic UI
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic UI Bold
+FamilyNameNative:Yu Gothic UI
+StyleNameNative:Bold
+FullNameNative:Yu Gothic UI Bold
+WritingScript:Japanese
+WinName:Yu Gothic UI Bold
+FileLength:14544308
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothicUI-Semibold
+FamilyName:Yu Gothic UI
+StyleName:Semibold
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic UI Semibold
+FamilyNameNative:Yu Gothic UI Semibold
+StyleNameNative:Semibold
+FullNameNative:Yu Gothic UI Semibold Semibold
+WritingScript:Japanese
+WinName:Yu Gothic UI Semibold
+FileLength:14543944
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothic-Light
+FamilyName:Yu Gothic
+StyleName:Light
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic Light
+FamilyNameNative:游ゴシック
+StyleNameNative:Light
+FullNameNative:游ゴシック Light
+WritingScript:Japanese
+WinName:Yu Gothic Light
+FileLength:13827832
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothicUI-Light
+FamilyName:Yu Gothic UI
+StyleName:Light
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic UI Light
+FamilyNameNative:Yu Gothic UI Light
+StyleNameNative:Light
+FullNameNative:Yu Gothic UI Light Light
+WritingScript:Japanese
+WinName:Yu Gothic UI Light
+FileLength:13827484
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothic-Medium
+FamilyName:Yu Gothic
+StyleName:Medium
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic Medium
+FamilyNameNative:游ゴシック
+StyleNameNative:Medium
+FullNameNative:游ゴシック Medium
+WritingScript:Japanese
+WinName:Yu Gothic Medium
+FileLength:13762096
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:YuGothicUI-Semilight
+FamilyName:Yu Gothic UI
+StyleName:Semilight
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Yu Gothic UI Semilight
+FamilyNameNative:Yu Gothic UI Semilight
+StyleNameNative:Semilight
+FullNameNative:Yu Gothic UI Semilight Semilight
+WritingScript:Japanese
+WinName:Yu Gothic UI Semilight
+FileLength:13696988
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HoloLensMDL2Assets
+FamilyName:HoloLens MDL2 Assets
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:HoloLens MDL2 Assets
+WritingScript:Roman
+WinName:HoloLens MDL2 Assets
+FileLength:40264
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:AgencyFB-Reg
+FamilyName:Agency FB
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Agency FB
+WritingScript:Roman
+WinName:Agency FB
+FileLength:58920
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:AgencyFB-Bold
+FamilyName:Agency FB
+StyleName:Bold
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Agency FB Bold
+WritingScript:Roman
+WinName:Agency FB Negrita
+FileLength:60656
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Algerian
+FamilyName:Algerian
+StyleName:Regular
+WeightClass:400
+WidthClass:2
+AngleClass:0
+FullName:Algerian
+WritingScript:Roman
+WinName:Algerian
+FileLength:76588
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookAntiqua
+FamilyName:Book Antiqua
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Book Antiqua
+WritingScript:Roman
+WinName:Book Antiqua
+FileLength:155528
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookAntiqua-Bold
+FamilyName:Book Antiqua
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Book Antiqua Bold
+WritingScript:Roman
+WinName:Book Antiqua Negrita
+FileLength:151000
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookAntiqua-BoldItalic
+FamilyName:Book Antiqua
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Book Antiqua Bold Italic
+WritingScript:Roman
+WinName:Book Antiqua Negrita Cursiva
+FileLength:150416
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookAntiqua-Italic
+FamilyName:Book Antiqua
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Book Antiqua Italic
+WritingScript:Roman
+WinName:Book Antiqua Cursiva
+FileLength:149092
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ArialNarrow
+FamilyName:Arial
+StyleName:Narrow
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Arial Narrow
+WritingScript:Roman
+WinName:Arial Narrow
+FileLength:175956
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ArialNarrow-Bold
+FamilyName:Arial
+StyleName:Narrow Bold
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Arial Narrow Bold
+WritingScript:Roman
+WinName:Arial Narrow Negrita
+FileLength:180740
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ArialNarrow-BoldItalic
+FamilyName:Arial
+StyleName:Narrow Bold Italic
+WeightClass:700
+WidthClass:3
+AngleClass:1
+FullName:Arial Narrow Bold Italic
+WritingScript:Roman
+WinName:Arial Narrow Negrita Cursiva
+FileLength:180084
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ArialNarrow-Italic
+FamilyName:Arial
+StyleName:Narrow Italic
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:Arial Narrow Italic
+WritingScript:Roman
+WinName:Arial Narrow Cursiva
+FileLength:181124
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ArialRoundedMTBold
+FamilyName:Arial Rounded MT Bold
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial Rounded MT Bold
+WritingScript:Roman
+WinName:Arial Rounded MT Bold
+FileLength:45260
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BaskOldFace
+FamilyName:Baskerville Old Face
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Baskerville Old Face
+WritingScript:Roman
+WinName:Baskerville Old Face
+FileLength:54976
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bauhaus93
+FamilyName:Bauhaus 93
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bauhaus 93
+WritingScript:Roman
+WinName:Bauhaus 93
+FileLength:47644
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BellMT
+FamilyName:Bell MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bell MT
+WritingScript:Roman
+WinName:Bell MT
+FileLength:84840
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BellMTBold
+FamilyName:Bell MT
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Bell MT Bold
+WritingScript:Roman
+WinName:Bell MT Negrita
+FileLength:82580
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BellMTItalic
+FamilyName:Bell MT
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Bell MT Italic
+WritingScript:Roman
+WinName:Bell MT Cursiva
+FileLength:82192
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BernardMT-Condensed
+FamilyName:Bernard MT Condensed
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Bernard MT Condensed
+WritingScript:Roman
+WinName:Bernard MT Condensed
+FileLength:70656
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMT
+FamilyName:Bodoni MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bodoni MT
+WritingScript:Roman
+WinName:Bodoni MT
+FileLength:77884
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMT-Bold
+FamilyName:Bodoni MT
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Bodoni MT Bold
+WritingScript:Roman
+WinName:Bodoni MT Negrita
+FileLength:74440
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMT-BoldItalic
+FamilyName:Bodoni MT
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Bodoni MT Bold Italic
+WritingScript:Roman
+WinName:Bodoni MT Negrita Cursiva
+FileLength:85308
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMT-Italic
+FamilyName:Bodoni MT
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Bodoni MT Italic
+WritingScript:Roman
+WinName:Bodoni MT Cursiva
+FileLength:89940
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMTBlack
+FamilyName:Bodoni MT
+StyleName:Black
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Bodoni MT Black
+WritingScript:Roman
+WinName:Bodoni MT Black
+FileLength:73616
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMTBlack-Italic
+FamilyName:Bodoni MT
+StyleName:Black Italic
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Bodoni MT Black Italic
+WritingScript:Roman
+WinName:Bodoni MT Black Cursiva
+FileLength:83816
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMTCondensed
+FamilyName:Bodoni MT
+StyleName:Condensed
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Bodoni MT Condensed
+WritingScript:Roman
+WinName:Bodoni MT Condensed
+FileLength:80580
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMTCondensed-Bold
+FamilyName:Bodoni MT
+StyleName:Condensed Bold
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Bodoni MT Condensed Bold
+WritingScript:Roman
+WinName:Bodoni MT Condensed Negrita
+FileLength:74092
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMTCondensed-BoldItalic
+FamilyName:Bodoni MT
+StyleName:Condensed Bold Italic
+WeightClass:700
+WidthClass:3
+AngleClass:1
+FullName:Bodoni MT Condensed Bold Italic
+WritingScript:Roman
+WinName:Bodoni MT Condensed Negrita Cursiva
+FileLength:81072
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMTCondensed-Italic
+FamilyName:Bodoni MT
+StyleName:Condensed Italic
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:Bodoni MT Condensed Italic
+WritingScript:Roman
+WinName:Bodoni MT Condensed Cursiva
+FileLength:80536
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BodoniMTPosterCompressed
+FamilyName:Bodoni MT
+StyleName:Poster Compressed
+WeightClass:300
+WidthClass:2
+AngleClass:0
+FullName:Bodoni MT Poster Compressed
+WritingScript:Roman
+WinName:Bodoni MT Poster Compressed
+FileLength:91592
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookmanOldStyle
+FamilyName:Bookman Old Style
+StyleName:Regular
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Bookman Old Style
+WritingScript:Roman
+WinName:Bookman Old Style
+FileLength:160940
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookmanOldStyle-Bold
+FamilyName:Bookman Old Style
+StyleName:Bold
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Bookman Old Style Bold
+WritingScript:Roman
+WinName:Bookman Old Style Negrita
+FileLength:154576
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookmanOldStyle-BoldItalic
+FamilyName:Bookman Old Style
+StyleName:Bold Italic
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Bookman Old Style Bold Italic
+WritingScript:Roman
+WinName:Bookman Old Style Negrita Cursiva
+FileLength:162460
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookmanOldStyle-Italic
+FamilyName:Bookman Old Style
+StyleName:Italic
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Bookman Old Style Italic
+WritingScript:Roman
+WinName:Bookman Old Style Cursiva
+FileLength:161020
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BradleyHandITC
+FamilyName:Bradley Hand ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bradley Hand ITC
+WritingScript:Roman
+WinName:Bradley Hand ITC
+FileLength:105296
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BritannicBold
+FamilyName:Britannic Bold
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Britannic Bold
+WritingScript:Roman
+WinName:Britannic Bold
+FileLength:40728
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BerlinSansFB-Reg
+FamilyName:Berlin Sans FB
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Berlin Sans FB
+WritingScript:Roman
+WinName:Berlin Sans FB
+FileLength:97284
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BerlinSansFB-Bold
+FamilyName:Berlin Sans FB
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Berlin Sans FB Bold
+WritingScript:Roman
+WinName:Berlin Sans FB Negrita
+FileLength:96880
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BerlinSansFBDemi-Bold
+FamilyName:Berlin Sans FB Demi
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Berlin Sans FB Demi Bold
+WritingScript:Roman
+WinName:Berlin Sans FB Demi Negrita
+FileLength:96852
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Broadway
+FamilyName:Broadway
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Broadway
+WritingScript:Roman
+WinName:Broadway
+FileLength:60372
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BrushScriptMT
+FamilyName:Brush Script MT
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Brush Script MT Italic
+WritingScript:Roman
+WinName:Brush Script MT Cursiva
+FileLength:53456
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BookshelfSymbolSeven
+FamilyName:Bookshelf Symbol 7
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bookshelf Symbol 7
+WritingScript:Roman
+WinName:Bookshelf Symbol 7
+FileLength:54412
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CalifornianFB-Reg
+FamilyName:Californian FB
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Californian FB
+WritingScript:Roman
+WinName:Californian FB
+FileLength:105300
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CalifornianFB-Bold
+FamilyName:Californian FB
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Californian FB Bold
+WritingScript:Roman
+WinName:Californian FB Negrita
+FileLength:80620
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CalifornianFB-Italic
+FamilyName:Californian FB
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Californian FB Italic
+WritingScript:Roman
+WinName:Californian FB Cursiva
+FileLength:98748
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CalistoMT
+FamilyName:Calisto MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Calisto MT
+WritingScript:Roman
+WinName:Calisto MT
+FileLength:80148
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CalisMTBol
+FamilyName:Calisto MT
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Calisto MT Bold
+WritingScript:Roman
+WinName:Calisto MT Negrita
+FileLength:85080
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CalistoMT-BoldItalic
+FamilyName:Calisto MT
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Calisto MT Bold Italic
+WritingScript:Roman
+WinName:Calisto MT Negrita Cursiva
+FileLength:84960
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CalistoMT-Italic
+FamilyName:Calisto MT
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Calisto MT Italic
+WritingScript:Roman
+WinName:Calisto MT Cursiva
+FileLength:59372
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Castellar
+FamilyName:Castellar
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Castellar
+WritingScript:Roman
+WinName:Castellar
+FileLength:48252
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CenturySchoolbook
+FamilyName:Century Schoolbook
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Century Schoolbook
+WritingScript:Roman
+WinName:Century Schoolbook
+FileLength:162380
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CenturySchoolbook-Bold
+FamilyName:Century Schoolbook
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Century Schoolbook Bold
+WritingScript:Roman
+WinName:Century Schoolbook Negrita
+FileLength:168756
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CenturySchoolbook-BoldItalic
+FamilyName:Century Schoolbook
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Century Schoolbook Bold Italic
+WritingScript:Roman
+WinName:Century Schoolbook Negrita Cursiva
+FileLength:160964
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CenturySchoolbook-Italic
+FamilyName:Century Schoolbook
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Century Schoolbook Italic
+WritingScript:Roman
+WinName:Century Schoolbook Cursiva
+FileLength:163164
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Centaur
+FamilyName:Centaur
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Centaur
+WritingScript:Roman
+WinName:Centaur
+FileLength:82760
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Century
+FamilyName:Century
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Century
+WritingScript:Roman
+WinName:Century
+FileLength:165248
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Chiller-Regular
+FamilyName:Chiller
+StyleName:Regular
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:Chiller
+WritingScript:Roman
+WinName:Chiller
+FileLength:96452
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ColonnaMT
+FamilyName:Colonna MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Colonna MT
+WritingScript:Roman
+WinName:Colonna MT
+FileLength:54952
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CooperBlack
+FamilyName:Cooper Black
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cooper Black
+WritingScript:Roman
+WinName:Cooper Black
+FileLength:80388
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CopperplateGothic-Bold
+FamilyName:Copperplate Gothic Bold
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Copperplate Gothic Bold
+WritingScript:Roman
+WinName:Copperplate Gothic Bold
+FileLength:61552
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CopperplateGothic-Light
+FamilyName:Copperplate Gothic Light
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Copperplate Gothic Light
+WritingScript:Roman
+WinName:Copperplate Gothic Light
+FileLength:62716
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CurlzMT
+FamilyName:Curlz MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Curlz MT
+WritingScript:Roman
+WinName:Curlz MT
+FileLength:69480
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Dubai-Regular
+FamilyName:Dubai
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Dubai Regular
+FamilyNameNative:Dubai
+StyleNameNative:Regular
+FullNameNative:Dubai Regular
+WritingScript:Arabic
+WinName:Dubai Regular
+FileLength:181484
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Dubai-Bold
+FamilyName:Dubai
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Dubai Bold
+FamilyNameNative:Dubai
+StyleNameNative:Bold
+FullNameNative:Dubai Bold
+WritingScript:Arabic
+WinName:Dubai Bold
+FileLength:179268
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Dubai-Light
+FamilyName:Dubai
+StyleName:Light
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Dubai Light
+FamilyNameNative:Dubai Light
+StyleNameNative:Light
+FullNameNative:Dubai Light Light
+WritingScript:Arabic
+WinName:Dubai Light
+FileLength:179648
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Dubai-Medium
+FamilyName:Dubai
+StyleName:Medium
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Dubai Medium
+FamilyNameNative:Dubai Medium
+StyleNameNative:Medium
+FullNameNative:Dubai Medium Medium
+WritingScript:Arabic
+WinName:Dubai Medium
+FileLength:179432
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Elephant-Regular
+FamilyName:Elephant
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Elephant
+WritingScript:Roman
+WinName:Elephant
+FileLength:51652
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Elephant-Italic
+FamilyName:Elephant
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Elephant Italic
+WritingScript:Roman
+WinName:Elephant Cursiva
+FileLength:54324
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:EngraversMT
+FamilyName:Engravers MT
+StyleName:Regular
+WeightClass:500
+WidthClass:7
+AngleClass:0
+FullName:Engravers MT
+WritingScript:Roman
+WinName:Engravers MT
+FileLength:49768
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ErasITC-Bold
+FamilyName:Eras Bold ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Eras Bold ITC
+WritingScript:Roman
+WinName:Eras Bold ITC
+FileLength:57508
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ErasITC-Demi
+FamilyName:Eras Demi ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Eras Demi ITC
+WritingScript:Roman
+WinName:Eras Demi ITC
+FileLength:59996
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ErasITC-Light
+FamilyName:Eras Light ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Eras Light ITC
+WritingScript:Roman
+WinName:Eras Light ITC
+FileLength:68656
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ErasITC-Medium
+FamilyName:Eras Medium ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Eras Medium ITC
+WritingScript:Roman
+WinName:Eras Medium ITC
+FileLength:60772
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FelixTitlingMT
+FamilyName:Felix Titling
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Felix Titling
+WritingScript:Roman
+WinName:Felix Titling
+FileLength:45952
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ForteMT
+FamilyName:Forte
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Forte
+WritingScript:Roman
+WinName:Forte
+FileLength:61776
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-Book
+FamilyName:Franklin Gothic Book
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Franklin Gothic Book
+WritingScript:Roman
+WinName:Franklin Gothic Book
+FileLength:152700
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-BookItalic
+FamilyName:Franklin Gothic Book
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Franklin Gothic Book Italic
+WritingScript:Roman
+WinName:Franklin Gothic Book Cursiva
+FileLength:169620
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-Demi
+FamilyName:Franklin Gothic Demi
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Franklin Gothic Demi
+WritingScript:Roman
+WinName:Franklin Gothic Demi
+FileLength:142932
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-DemiItalic
+FamilyName:Franklin Gothic Demi
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Franklin Gothic Demi Italic
+WritingScript:Roman
+WinName:Franklin Gothic Demi Cursiva
+FileLength:135904
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-DemiCond
+FamilyName:Franklin Gothic Demi Cond
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Franklin Gothic Demi Cond
+WritingScript:Roman
+WinName:Franklin Gothic Demi Cond
+FileLength:116940
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-Heavy
+FamilyName:Franklin Gothic Heavy
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Franklin Gothic Heavy
+WritingScript:Roman
+WinName:Franklin Gothic Heavy
+FileLength:139400
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-HeavyItalic
+FamilyName:Franklin Gothic Heavy
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Franklin Gothic Heavy Italic
+WritingScript:Roman
+WinName:Franklin Gothic Heavy Cursiva
+FileLength:152700
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FranklinGothic-MediumCond
+FamilyName:Franklin Gothic Medium Cond
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Franklin Gothic Medium Cond
+WritingScript:Roman
+WinName:Franklin Gothic Medium Cond
+FileLength:132516
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreestyleScript-Regular
+FamilyName:Freestyle Script
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Freestyle Script
+WritingScript:Roman
+WinName:Freestyle Script
+FileLength:69876
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FrenchScriptMT
+FamilyName:French Script MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:French Script MT
+WritingScript:Roman
+WinName:French Script MT
+FileLength:58580
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FootlightMTLight
+FamilyName:Footlight MT Light
+StyleName:Regular
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Footlight MT Light
+WritingScript:Roman
+WinName:Footlight MT Light
+FileLength:83580
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Garamond
+FamilyName:Garamond
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Garamond
+WritingScript:Roman
+WinName:Garamond
+FileLength:198072
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Garamond-Bold
+FamilyName:Garamond
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Garamond Bold
+WritingScript:Roman
+WinName:Garamond Negrita
+FileLength:199772
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Garamond-Italic
+FamilyName:Garamond
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Garamond Italic
+WritingScript:Roman
+WinName:Garamond Cursiva
+FileLength:189464
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Gigi-Regular
+FamilyName:Gigi
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gigi
+WritingScript:Roman
+WinName:Gigi
+FileLength:142072
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GillSansMT
+FamilyName:Gill Sans MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gill Sans MT
+WritingScript:Roman
+WinName:Gill Sans MT
+FileLength:67416
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GillSansMT-BoldItalic
+FamilyName:Gill Sans MT
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Gill Sans MT Bold Italic
+WritingScript:Roman
+WinName:Gill Sans MT Negrita Cursiva
+FileLength:71496
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GillSansMT-Bold
+FamilyName:Gill Sans MT
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Gill Sans MT Bold
+WritingScript:Roman
+WinName:Gill Sans MT Negrita
+FileLength:68304
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GillSansMT-Italic
+FamilyName:Gill Sans MT
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Gill Sans MT Italic
+WritingScript:Roman
+WinName:Gill Sans MT Cursiva
+FileLength:69436
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GillSansMT-Condensed
+FamilyName:Gill Sans MT Condensed
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Gill Sans MT Condensed
+WritingScript:Roman
+WinName:Gill Sans MT Condensed
+FileLength:60320
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GillSans-UltraBoldCondensed
+FamilyName:Gill Sans Ultra Bold Condensed
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Gill Sans Ultra Bold Condensed
+WritingScript:Roman
+WinName:Gill Sans Ultra Bold Condensed
+FileLength:72408
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GillSans-UltraBold
+FamilyName:Gill Sans Ultra Bold
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gill Sans Ultra Bold
+WritingScript:Roman
+WinName:Gill Sans Ultra Bold
+FileLength:73136
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GloucesterMT-ExtraCondensed
+FamilyName:Gloucester MT Extra Condensed
+StyleName:Regular
+WeightClass:400
+WidthClass:2
+AngleClass:0
+FullName:Gloucester MT Extra Condensed
+WritingScript:Roman
+WinName:Gloucester MT Extra Condensed
+FileLength:72676
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GillSansMT-ExtraCondensedBold
+FamilyName:Gill Sans MT Ext Condensed Bold
+StyleName:Regular
+WeightClass:400
+WidthClass:2
+AngleClass:0
+FullName:Gill Sans MT Ext Condensed Bold
+WritingScript:Roman
+WinName:Gill Sans MT Ext Condensed Bold
+FileLength:84668
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Century Gothic
+WritingScript:Roman
+WinName:Century Gothic
+FileLength:137568
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CenturyGothic-Bold
+FamilyName:Century Gothic
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Century Gothic Bold
+WritingScript:Roman
+WinName:Century Gothic Negrita
+FileLength:129676
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CenturyGothic-BoldItalic
+FamilyName:Century Gothic
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Century Gothic Bold Italic
+WritingScript:Roman
+WinName:Century Gothic Negrita Cursiva
+FileLength:139084
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CenturyGothic-Italic
+FamilyName:Century Gothic
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Century Gothic Italic
+WritingScript:Roman
+WinName:Century Gothic Cursiva
+FileLength:148520
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GoudyOldStyleT-Regular
+FamilyName:Goudy Old Style
+StyleName:Regular
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:Goudy Old Style
+WritingScript:Roman
+WinName:Goudy Old Style
+FileLength:81376
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GoudyOldStyleT-Bold
+FamilyName:Goudy Old Style
+StyleName:Bold
+WeightClass:700
+WidthClass:6
+AngleClass:0
+FullName:Goudy Old Style Bold
+WritingScript:Roman
+WinName:Goudy Old Style Negrita
+FileLength:82796
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GoudyOldStyleT-Italic
+FamilyName:Goudy Old Style
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Goudy Old Style Italic
+WritingScript:Roman
+WinName:Goudy Old Style Cursiva
+FileLength:80280
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GoudyStout
+FamilyName:Goudy Stout
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Goudy Stout
+WritingScript:Roman
+WinName:Goudy Stout
+FileLength:55956
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HarlowSolid
+FamilyName:Harlow Solid Italic
+StyleName:Italic
+WeightClass:400
+WidthClass:6
+AngleClass:1
+FullName:Harlow Solid Italic
+WritingScript:Roman
+WinName:Harlow Solid Italic
+FileLength:56596
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Harrington
+FamilyName:Harrington
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Harrington
+WritingScript:Roman
+WinName:Harrington
+FileLength:70440
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Haettenschweiler
+FamilyName:Haettenschweiler
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Haettenschweiler
+WritingScript:Roman
+WinName:Haettenschweiler
+FileLength:108664
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HighTowerText-Reg
+FamilyName:High Tower Text
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:High Tower Text
+WritingScript:Roman
+WinName:High Tower Text
+FileLength:92736
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HighTowerText-Italic
+FamilyName:High Tower Text
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:High Tower Text Italic
+WritingScript:Roman
+WinName:High Tower Text Cursiva
+FileLength:74712
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ImprintMT-Shadow
+FamilyName:Imprint MT Shadow
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Imprint MT Shadow
+WritingScript:Roman
+WinName:Imprint MT Shadow
+FileLength:60488
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:InformalRoman-Regular
+FamilyName:Informal Roman
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Informal Roman
+WritingScript:Roman
+WinName:Informal Roman
+FileLength:74968
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BlackadderITC-Regular
+FamilyName:Blackadder ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Blackadder ITC
+WritingScript:Roman
+WinName:Blackadder ITC
+FileLength:132372
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:EdwardianScriptITC
+FamilyName:Edwardian Script ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:Edwardian Script ITC
+WritingScript:Roman
+WinName:Edwardian Script ITC
+FileLength:64056
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KristenITC-Regular
+FamilyName:Kristen ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:Kristen ITC
+WritingScript:Roman
+WinName:Kristen ITC
+FileLength:59712
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Jokerman-Regular
+FamilyName:Jokerman
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Jokerman
+WritingScript:Roman
+WinName:Jokerman
+FileLength:69752
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:JuiceITC-Regular
+FamilyName:Juice ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Juice ITC
+WritingScript:Roman
+WinName:Juice ITC
+FileLength:62884
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KunstlerScript
+FamilyName:Kunstler Script
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Kunstler Script
+WritingScript:Roman
+WinName:Kunstler Script
+FileLength:63392
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LatinWide
+FamilyName:Wide Latin
+StyleName:Regular
+WeightClass:400
+WidthClass:9
+AngleClass:0
+FullName:Wide Latin
+WritingScript:Roman
+WinName:Wide Latin
+FileLength:44824
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaBright
+FamilyName:Lucida Bright
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lucida Bright
+WritingScript:Roman
+WinName:Lucida Bright
+FileLength:70748
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaBright-Demi
+FamilyName:Lucida Bright
+StyleName:Demibold
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Lucida Bright Demibold
+WritingScript:Roman
+WinName:Lucida Bright Demibold
+FileLength:66724
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaBright-DemiItalic
+FamilyName:Lucida Bright
+StyleName:Demibold Italic
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Lucida Bright Demibold Italic
+WritingScript:Roman
+WinName:Lucida Bright Demibold Italic
+FileLength:71456
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaBright-Italic
+FamilyName:Lucida Bright
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Lucida Bright Italic
+WritingScript:Roman
+WinName:Lucida Bright Italic
+FileLength:71000
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaCalligraphy-Italic
+FamilyName:Lucida Calligraphy
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Lucida Calligraphy Italic
+WritingScript:Roman
+WinName:Lucida Calligraphy Italic
+FileLength:55464
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaFax
+FamilyName:Lucida Fax
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lucida Fax Regular
+WritingScript:Roman
+WinName:Lucida Fax
+FileLength:61912
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaFax-Demi
+FamilyName:Lucida Fax
+StyleName:Demibold
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Lucida Fax Demibold
+WritingScript:Roman
+WinName:Lucida Fax Seminegrita
+FileLength:62100
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaFax-DemiItalic
+FamilyName:Lucida Fax
+StyleName:Demibold Italic
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Lucida Fax Demibold Italic
+WritingScript:Roman
+WinName:Lucida Fax Seminegrita Cursiva
+FileLength:71472
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaFax-Italic
+FamilyName:Lucida Fax
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Lucida Fax Italic
+WritingScript:Roman
+WinName:Lucida Fax Cursiva
+FileLength:67420
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaHandwriting-Italic
+FamilyName:Lucida Handwriting
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Lucida Handwriting Italic
+WritingScript:Roman
+WinName:Lucida Handwriting Cursiva
+FileLength:62484
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSans
+FamilyName:Lucida Sans
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lucida Sans Regular
+WritingScript:Roman
+WinName:Lucida Sans
+FileLength:64608
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSans-Demi
+FamilyName:Lucida Sans
+StyleName:Demibold Roman
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Lucida Sans Demibold Roman
+WritingScript:Roman
+WinName:Lucida Sans Seminegrita
+FileLength:59976
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSans-DemiItalic
+FamilyName:Lucida Sans
+StyleName:Demibold Italic
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Lucida Sans Demibold Italic
+WritingScript:Roman
+WinName:Lucida Sans Seminegrita Cursiva
+FileLength:66320
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSans-Italic
+FamilyName:Lucida Sans
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Lucida Sans Italic
+WritingScript:Roman
+WinName:Lucida Sans Cursiva
+FileLength:65412
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSans-Typewriter
+FamilyName:Lucida Sans Typewriter
+StyleName:Regular
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:Lucida Sans Typewriter Regular
+WritingScript:Roman
+WinName:Lucida Sans Typewriter
+FileLength:55984
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSans-TypewriterBold
+FamilyName:Lucida Sans Typewriter
+StyleName:Bold
+WeightClass:600
+WidthClass:4
+AngleClass:0
+FullName:Lucida Sans Typewriter Bold
+WritingScript:Roman
+WinName:Lucida Sans Typewriter Negrita
+FileLength:52868
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSans-TypewriterBoldOblique
+FamilyName:Lucida Sans Typewriter
+StyleName:Bold Oblique
+WeightClass:600
+WidthClass:4
+AngleClass:1
+FullName:Lucida Sans Typewriter Bold Oblique
+WritingScript:Roman
+WinName:Lucida Sans Typewriter Negrita Inclinada
+FileLength:54620
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LucidaSans-TypewriterOblique
+FamilyName:Lucida Sans Typewriter
+StyleName:Oblique
+WeightClass:400
+WidthClass:4
+AngleClass:1
+FullName:Lucida Sans Typewriter Oblique
+WritingScript:Roman
+WinName:Lucida Sans Typewriter Inclinada
+FileLength:65412
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Magneto-Bold
+FamilyName:Magneto
+StyleName:Bold
+WeightClass:700
+WidthClass:6
+AngleClass:0
+FullName:Magneto Bold
+WritingScript:Roman
+WinName:Magneto Negrita
+FileLength:65284
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MaiandraGD-Regular
+FamilyName:Maiandra GD
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Maiandra GD
+WritingScript:Roman
+WinName:Maiandra GD
+FileLength:61384
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MaturaMTScriptCapitals
+FamilyName:Matura MT Script Capitals
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Matura MT Script Capitals
+WritingScript:Roman
+WinName:Matura MT Script Capitals
+FileLength:51296
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Mistral
+FamilyName:Mistral
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Mistral
+WritingScript:Roman
+WinName:Mistral
+FileLength:191716
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Modern-Regular
+FamilyName:Modern No. 20
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Modern No. 20
+WritingScript:Roman
+WinName:Modern No. 20
+FileLength:62612
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MonotypeCorsiva
+FamilyName:Monotype Corsiva
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Monotype Corsiva
+WritingScript:Roman
+WinName:Monotype Corsiva
+FileLength:157360
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MT-Extra
+FamilyName:MT Extra
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MT Extra
+WritingScript:Roman
+WinName:MT Extra
+FileLength:9024
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NiagaraEngraved-Reg
+FamilyName:Niagara Engraved
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Niagara Engraved
+WritingScript:Roman
+WinName:Niagara Engraved
+FileLength:95904
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NiagaraSolid-Reg
+FamilyName:Niagara Solid
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Niagara Solid
+WritingScript:Roman
+WinName:Niagara Solid
+FileLength:74012
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:OCRAExtended
+FamilyName:OCR A Extended
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:OCR A Extended
+WritingScript:Roman
+WinName:OCR A Extended
+FileLength:55400
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:OldEnglishTextMT
+FamilyName:Old English Text MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Old English Text MT
+WritingScript:Roman
+WinName:Old English Text MT
+FileLength:93068
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Onyx
+FamilyName:Onyx
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Onyx
+WritingScript:Roman
+WinName:Onyx
+FileLength:81044
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MSOutlook
+FamilyName:MS Outlook
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MS Outlook
+WritingScript:Roman
+WinName:MS Outlook
+FileLength:17672
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PalaceScriptMT
+FamilyName:Palace Script MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Palace Script MT
+WritingScript:Roman
+WinName:Palace Script MT
+FileLength:51404
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Papyrus-Regular
+FamilyName:Papyrus
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Papyrus
+WritingScript:Roman
+WinName:Papyrus
+FileLength:163476
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Parchment-Regular
+FamilyName:Parchment
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Parchment
+WritingScript:Roman
+WinName:Parchment
+FileLength:151256
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Perpetua
+FamilyName:Perpetua
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Perpetua
+WritingScript:Roman
+WinName:Perpetua
+FileLength:60216
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Perpetua-BoldItalic
+FamilyName:Perpetua
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Perpetua Bold Italic
+WritingScript:Roman
+WinName:Perpetua Negrita Cursiva
+FileLength:75620
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Perpetua-Bold
+FamilyName:Perpetua
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Perpetua Bold
+WritingScript:Roman
+WinName:Perpetua Negrita
+FileLength:58512
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Perpetua-Italic
+FamilyName:Perpetua
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Perpetua Italic
+WritingScript:Roman
+WinName:Perpetua Cursiva
+FileLength:76080
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PerpetuaTitlingMT-Light
+FamilyName:Perpetua Titling MT
+StyleName:Light
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Perpetua Titling MT Light
+WritingScript:Roman
+WinName:Perpetua Titling MT Fina
+FileLength:43800
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PerpetuaTitlingMT-Bold
+FamilyName:Perpetua Titling MT
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Perpetua Titling MT Bold
+WritingScript:Roman
+WinName:Perpetua Titling MT Negrita
+FileLength:48320
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Playbill
+FamilyName:Playbill
+StyleName:Regular
+WeightClass:400
+WidthClass:1
+AngleClass:0
+FullName:Playbill
+WritingScript:Roman
+WinName:Playbill
+FileLength:46164
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PoorRichard-Regular
+FamilyName:Poor Richard
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Poor Richard
+WritingScript:Roman
+WinName:Poor Richard
+FileLength:76588
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Pristina-Regular
+FamilyName:Pristina
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Pristina
+WritingScript:Roman
+WinName:Pristina
+FileLength:82680
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:RageItalic
+FamilyName:Rage Italic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Rage Italic
+WritingScript:Roman
+WinName:Rage Italic
+FileLength:132600
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ravie
+FamilyName:Ravie
+StyleName:Regular
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:Ravie
+WritingScript:Roman
+WinName:Ravie
+FileLength:74416
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MSReferenceSansSerif
+FamilyName:MS Reference Sans Serif
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MS Reference Sans Serif
+WritingScript:Roman
+WinName:MS Reference Sans Serif
+FileLength:220172
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MSReferenceSpecialty
+FamilyName:MS Reference Specialty
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MS Reference Specialty
+WritingScript:Roman
+WinName:MS Reference Specialty
+FileLength:53288
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Rockwell-Condensed
+FamilyName:Rockwell Condensed
+StyleName:Regular
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Rockwell Condensed
+WritingScript:Roman
+WinName:Rockwell Condensed
+FileLength:55824
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Rockwell-CondensedBold
+FamilyName:Rockwell Condensed
+StyleName:Bold
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Rockwell Condensed Bold
+WritingScript:Roman
+WinName:Rockwell Condensed Negrita
+FileLength:59444
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Rockwell
+FamilyName:Rockwell
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Rockwell
+WritingScript:Roman
+WinName:Rockwell
+FileLength:72272
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Rockwell-Bold
+FamilyName:Rockwell
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Rockwell Bold
+WritingScript:Roman
+WinName:Rockwell Negrita
+FileLength:68780
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Rockwell-BoldItalic
+FamilyName:Rockwell
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Rockwell Bold Italic
+WritingScript:Roman
+WinName:Rockwell Negrita Cursiva
+FileLength:73700
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Rockwell-Italic
+FamilyName:Rockwell
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Rockwell Italic
+WritingScript:Roman
+WinName:Rockwell Cursiva
+FileLength:76756
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Rockwell-ExtraBold
+FamilyName:Rockwell Extra Bold
+StyleName:Regular
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Rockwell Extra Bold
+WritingScript:Roman
+WinName:Rockwell Extra Bold
+FileLength:49168
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ScriptMTBold
+FamilyName:Script MT Bold
+StyleName:Regular
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Script MT Bold
+WritingScript:Roman
+WinName:Script MT Bold
+FileLength:55500
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ShowcardGothic-Reg
+FamilyName:Showcard Gothic
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Showcard Gothic
+WritingScript:Roman
+WinName:Showcard Gothic
+FileLength:52316
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SnapITC-Regular
+FamilyName:Snap ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Snap ITC
+WritingScript:Roman
+WinName:Snap ITC
+FileLength:63196
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Stencil
+FamilyName:Stencil
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Stencil
+WritingScript:Roman
+WinName:Stencil
+FileLength:55596
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TwCenMT-Regular
+FamilyName:Tw Cen MT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tw Cen MT
+WritingScript:Roman
+WinName:Tw Cen MT
+FileLength:76252
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TwCenMT-BoldItalic
+FamilyName:Tw Cen MT
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Tw Cen MT Bold Italic
+WritingScript:Roman
+WinName:Tw Cen MT Negrita Cursiva
+FileLength:73856
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TwCenMT-Bold
+FamilyName:Tw Cen MT
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Tw Cen MT Bold
+WritingScript:Roman
+WinName:Tw Cen MT Negrita
+FileLength:74656
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TwCenMT-Italic
+FamilyName:Tw Cen MT
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Tw Cen MT Italic
+WritingScript:Roman
+WinName:Tw Cen MT Cursiva
+FileLength:78236
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TwCenMT-Condensed
+FamilyName:Tw Cen MT Condensed
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tw Cen MT Condensed
+WritingScript:Roman
+WinName:Tw Cen MT Condensed
+FileLength:66804
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TwCenMT-CondensedBold
+FamilyName:Tw Cen MT Condensed
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Tw Cen MT Condensed Bold
+WritingScript:Roman
+WinName:Tw Cen MT Condensed Negrita
+FileLength:66020
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TwCenMT-CondensedExtraBold
+FamilyName:Tw Cen MT Condensed Extra Bold
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tw Cen MT Condensed Extra Bold
+WritingScript:Roman
+WinName:Tw Cen MT Condensed Extra Bold
+FileLength:74708
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TempusSansITC
+FamilyName:Tempus Sans ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tempus Sans ITC
+WritingScript:Roman
+WinName:Tempus Sans ITC
+FileLength:76100
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:VinerHandITC
+FamilyName:Viner Hand ITC
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Viner Hand ITC
+WritingScript:Roman
+WinName:Viner Hand ITC
+FileLength:104372
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Vivaldii
+FamilyName:Vivaldi
+StyleName:Italic
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:Vivaldi Italic
+WritingScript:Roman
+WinName:Vivaldi Cursiva
+FileLength:66696
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:VladimirScript
+FamilyName:Vladimir Script
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Vladimir Script
+WritingScript:Roman
+WinName:Vladimir Script
+FileLength:54308
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Wingdings2
+FamilyName:Wingdings 2
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings 2
+WritingScript:Roman
+WinName:Wingdings 2
+FileLength:65788
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Wingdings3
+FamilyName:Wingdings 3
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings 3
+WritingScript:Roman
+WinName:Wingdings 3
+FileLength:35328
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ZWAdobeF
+FamilyName:ZWAdobeF
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:ZWAdobeF
+WritingScript:Roman
+WinName:ZWAdobeF
+FileLength:6800
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:18thCentury
+FamilyName:18thCentury
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:18thCentury
+WritingScript:Roman
+WinName:18thCentury
+FileLength:20952
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:AcmeFont
+FamilyName:AcmeFont
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:AcmeFont Regular
+WritingScript:Roman
+WinName:AcmeFont Regular
+FileLength:46604
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Alfredo
+FamilyName:Alfredo
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Alfredo Regular
+WritingScript:Roman
+WinName:Alfredo Regular
+FileLength:47600
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:AlienEncounters
+FamilyName:Alien Encounters
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Alien Encounters
+WritingScript:Roman
+WinName:Alien Encounters
+FileLength:19936
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:AlmonteSnow
+FamilyName:Almonte Snow
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Almonte Snow
+WritingScript:Roman
+WinName:Almonte Snow
+FileLength:61636
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Amethyst
+FamilyName:Amethyst
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Amethyst Regular
+WritingScript:Roman
+WinName:Amethyst Regular
+FileLength:47376
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Asimov
+FamilyName:Asimov
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Asimov
+WritingScript:Roman
+WinName:Asimov
+FileLength:34664
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Autumn
+FamilyName:Autumn
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Autumn Regular
+WritingScript:Roman
+WinName:Autumn Regular
+FileLength:33080
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BabyKruffy
+FamilyName:Baby Kruffy
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Baby Kruffy
+WritingScript:Roman
+WinName:Baby Kruffy
+FileLength:57872
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Balthazar
+FamilyName:Balthazar
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Balthazar Regular
+WritingScript:Roman
+WinName:Balthazar Regular
+FileLength:64544
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bastion
+FamilyName:Bastion
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Bastion Regular
+WritingScript:Roman
+WinName:Bastion Regular
+FileLength:50588
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BNJinx
+FamilyName:BN Jinx
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:BN Jinx
+WritingScript:Roman
+WinName:BN Jinx
+FileLength:38292
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BNMachine
+FamilyName:BN Machine
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:BN Machine
+WritingScript:Roman
+WinName:BN Machine
+FileLength:39372
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Bobcat
+FamilyName:Bobcat
+StyleName:Normal
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bobcat
+WritingScript:Roman
+WinName:Bobcat
+FileLength:36148
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BolsterBold
+FamilyName:BolsterBold
+StyleName:Bold
+WeightClass:7
+WidthClass:5
+AngleClass:0
+FullName:BolsterBold Bold
+WritingScript:Roman
+WinName:BolsterBold Bold
+FileLength:35192
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Borealis
+FamilyName:Borealis
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Borealis Regular
+WritingScript:Roman
+WinName:Borealis Regular
+FileLength:53080
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:BOUTONInternationalSymbols
+FamilyName:BOUTON International Symbols
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:BOUTON International Symbols
+WritingScript:Roman
+WinName:BOUTON International Symbols
+FileLength:31964
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Brandish
+FamilyName:Brandish
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Brandish Regular
+WritingScript:Roman
+WinName:Brandish Regular
+FileLength:36784
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Brussels
+FamilyName:Brussels
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Brussels Regular
+WritingScript:Roman
+WinName:Brussels Regular
+FileLength:46448
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Calligraphic
+FamilyName:Calligraphic
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Calligraphic Regular
+WritingScript:Roman
+WinName:Calligraphic Regular
+FileLength:42160
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Calvin
+FamilyName:Calvin
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Calvin Regular
+WritingScript:Roman
+WinName:Calvin Regular
+FileLength:53516
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Candles
+FamilyName:Candles
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Candles
+WritingScript:Roman
+WinName:Candles
+FileLength:65928
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ChinyenNormal
+FamilyName:Chinyen
+StyleName:Normal
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Chinyen Normal
+WritingScript:Roman
+WinName:Chinyen Normal
+FileLength:44396
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Clarendon
+FamilyName:Clarendon
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Clarendon Regular
+WritingScript:Roman
+WinName:Clarendon Regular
+FileLength:62000
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Colbert
+FamilyName:Colbert
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Colbert Regular
+WritingScript:Roman
+WinName:Colbert Regular
+FileLength:35164
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Commons
+FamilyName:Commons
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Commons Regular
+WritingScript:Roman
+WinName:Commons Regular
+FileLength:61504
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Coolsville
+FamilyName:Coolsville
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Coolsville Regular
+WritingScript:Roman
+WinName:Coolsville Regular
+FileLength:64788
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Corporate
+FamilyName:Corporate
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Corporate Regular
+WritingScript:Roman
+WinName:Corporate Regular
+FileLength:37208
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:CrackedJohnnie
+FamilyName:Cracked Johnnie
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cracked Johnnie
+WritingScript:Roman
+WinName:Cracked Johnnie
+FileLength:42240
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Creepygirl
+FamilyName:Creepygirl
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Creepygirl
+WritingScript:Roman
+WinName:Creepygirl
+FileLength:49780
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Dayton
+FamilyName:Dayton
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Dayton Regular
+WritingScript:Roman
+WinName:Dayton Regular
+FileLength:37716
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Deneane
+FamilyName:Deneane
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Deneane Regular
+WritingScript:Roman
+WinName:Deneane Regular
+FileLength:51656
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Detente
+FamilyName:Detente
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Detente Regular
+WritingScript:Roman
+WinName:Detente Regular
+FileLength:66276
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Digifit
+FamilyName:Digifit
+StyleName:Normal
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Digifit
+WritingScript:Roman
+WinName:Digifit
+FileLength:30444
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DistantGalaxy
+FamilyName:Distant Galaxy
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Distant Galaxy
+WritingScript:Roman
+WinName:Distant Galaxy
+FileLength:28744
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Dominican
+FamilyName:Dominican
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Dominican Regular
+WritingScript:Roman
+WinName:Dominican Regular
+FileLength:36464
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Emmett
+FamilyName:Emmett
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Emmett Regular
+WritingScript:Roman
+WinName:Emmett Regular
+FileLength:47864
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Enliven
+FamilyName:Enliven
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Enliven Regular
+WritingScript:Roman
+WinName:Enliven Regular
+FileLength:57496
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ethnocentric
+FamilyName:Ethnocentric
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ethnocentric
+WritingScript:Roman
+WinName:Ethnocentric
+FileLength:36460
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Fingerpop
+FamilyName:Fingerpop
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Fingerpop
+WritingScript:Roman
+WinName:Fingerpop
+FileLength:22628
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Flubber
+FamilyName:Flubber
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Flubber
+WritingScript:Roman
+WinName:Flubber
+FileLength:69532
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FrankfurterVenetianTT
+FamilyName:Frankfurter Venetian TT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Frankfurter Venetian TT
+WritingScript:Roman
+WinName:Frankfurter Venetian TT
+FileLength:112976
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Gazzarelli
+FamilyName:Gazzarelli
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gazzarelli
+WritingScript:Roman
+WinName:Gazzarelli
+FileLength:104728
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GeotypeTT
+FamilyName:Geotype TT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Geotype TT
+WritingScript:Roman
+WinName:Geotype TT
+FileLength:21112
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Glockenspiel
+FamilyName:Glockenspiel
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Glockenspiel Regular
+WritingScript:Roman
+WinName:Glockenspiel Regular
+FileLength:42024
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GoodTimes
+FamilyName:Good Times
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Good Times
+WritingScript:Roman
+WinName:Good Times
+FileLength:32912
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:GreekDinerInlineTT
+FamilyName:Greek Diner Inline TT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Greek Diner Inline TT
+WritingScript:Roman
+WinName:Greek Diner Inline TT
+FileLength:26212
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HandMeDownS-BRK-
+FamilyName:Hand Me Down S (BRK)
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Hand Me Down S -BRK-
+WritingScript:Roman
+WinName:Hand Me Down S -BRK-
+FileLength:114124
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Hansen
+FamilyName:Hansen
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Hansen Regular
+WritingScript:Roman
+WinName:Hansen Regular
+FileLength:57984
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HarvestItal
+FamilyName:HarvestItal
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:HarvestItal Regular
+WritingScript:Roman
+WinName:HarvestItal Regular
+FileLength:47080
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Harvest
+FamilyName:Harvest
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Harvest Regular
+WritingScript:Roman
+WinName:Harvest Regular
+FileLength:41544
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HaxtonLogosTT
+FamilyName:Haxton Logos TT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Haxton Logos TT
+WritingScript:Roman
+WinName:Haxton Logos TT
+FileLength:33708
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HeavyHeap
+FamilyName:Heavy Heap
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Heavy Heap
+WritingScript:Roman
+WinName:Heavy Heap
+FileLength:32724
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HollywoodHills
+FamilyName:Hollywood Hills
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Hollywood Hills
+WritingScript:Roman
+WinName:Hollywood Hills
+FileLength:26616
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Hombre
+FamilyName:Hombre
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Hombre Regular
+WritingScript:Roman
+WinName:Hombre Regular
+FileLength:39088
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HuxleyTitling
+FamilyName:Huxley Titling
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Huxley Titling
+WritingScript:Roman
+WinName:Huxley Titling
+FileLength:23784
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Induction
+FamilyName:Induction
+StyleName:Normal
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Induction
+WritingScript:Roman
+WinName:Induction
+FileLength:25524
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Italianate
+FamilyName:Italianate
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Italianate Regular
+WritingScript:Roman
+WinName:Italianate Regular
+FileLength:73092
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Limousine
+FamilyName:Limousine
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Limousine Regular
+WritingScript:Roman
+WinName:Limousine Regular
+FileLength:51904
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LittleLordFontleroy
+FamilyName:LittleLordFontleroy
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:LittleLordFontleroy
+WritingScript:Roman
+WinName:LittleLordFontleroy
+FileLength:75360
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LetterOMatic
+FamilyName:LetterOMatic!
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:LetterOMatic!
+WritingScript:Roman
+WinName:LetterOMatic!
+FileLength:38192
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Mael
+FamilyName:Mael
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Mael
+WritingScript:Roman
+WinName:Mael
+FileLength:57216
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Manorly
+FamilyName:Manorly
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Manorly Regular
+WritingScript:Roman
+WinName:Manorly Regular
+FileLength:62512
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Martina
+FamilyName:Martina
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Martina Regular
+WritingScript:Roman
+WinName:Martina Regular
+FileLength:59172
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:MelodBold
+FamilyName:MelodBold
+StyleName:Bold
+WeightClass:7
+WidthClass:5
+AngleClass:0
+FullName:MelodBold Bold
+WritingScript:Roman
+WinName:MelodBold Bold
+FileLength:55776
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Minerva
+FamilyName:Minerva
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Minerva Regular
+WritingScript:Roman
+WinName:Minerva Regular
+FileLength:56236
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Moonbeam
+FamilyName:Moonbeam
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Moonbeam Regular
+WritingScript:Roman
+WinName:Moonbeam Regular
+FileLength:40428
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Mycalc
+FamilyName:Mycalc
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Mycalc Regular
+WritingScript:Roman
+WinName:Mycalc Regular
+FileLength:40800
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PR-CelticNarrow
+FamilyName:PR Celtic Narrow
+StyleName:Normal
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PR Celtic Narrow
+WritingScript:Roman
+WinName:PR Celtic Narrow
+FileLength:52452
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Nasalization
+FamilyName:Nasalization
+StyleName:Medium
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Nasalization
+WritingScript:Roman
+WinName:Nasalization
+FileLength:29688
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NeonLights-
+FamilyName:Neon Lights
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Neon Lights
+WritingScript:Roman
+WinName:Neon Lights
+FileLength:97964
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Notram
+FamilyName:Notram
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Notram Regular
+WritingScript:Roman
+WinName:Notram Regular
+FileLength:61064
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:November
+FamilyName:November
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:November Regular
+WritingScript:Roman
+WinName:November Regular
+FileLength:38384
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:OpineHeavy
+FamilyName:OpineHeavy
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:OpineHeavy Regular
+WritingScript:Roman
+WinName:OpineHeavy Regular
+FileLength:45752
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:ParryHotter
+FamilyName:Parry Hotter
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Parry Hotter
+WritingScript:Roman
+WinName:Parry Hotter
+FileLength:137392
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PenultimateLightItal
+FamilyName:PenultimateLightItal
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:PenultimateLightItal Regular
+WritingScript:Roman
+WinName:PenultimateLightItal Regular
+FileLength:40756
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PenultimateLight
+FamilyName:PenultimateLight
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:PenultimateLight Regular
+WritingScript:Roman
+WinName:PenultimateLight Regular
+FileLength:38780
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PhrasticMedium
+FamilyName:PhrasticMedium
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:PhrasticMedium Regular
+WritingScript:Roman
+WinName:PhrasticMedium Regular
+FileLength:38908
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Pirate
+FamilyName:Pirate
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Pirate Regular
+WritingScript:Roman
+WinName:Pirate Regular
+FileLength:42492
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:QuiverItal
+FamilyName:QuiverItal
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:QuiverItal Regular
+WritingScript:Roman
+WinName:QuiverItal Regular
+FileLength:30608
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Roland
+FamilyName:Roland
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Roland Regular
+WritingScript:Roman
+WinName:Roland Regular
+FileLength:53872
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Rondalo
+FamilyName:Rondalo
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Rondalo Regular
+WritingScript:Roman
+WinName:Rondalo Regular
+FileLength:48288
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:RowdyHeavy
+FamilyName:RowdyHeavy
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:RowdyHeavy Regular
+WritingScript:Roman
+WinName:RowdyHeavy Regular
+FileLength:62004
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:RusselWriteTT
+FamilyName:Russel Write TT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Russel Write TT
+WritingScript:Roman
+WinName:Russel Write TT
+FileLength:19400
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Salina
+FamilyName:Salina
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Salina Regular
+WritingScript:Roman
+WinName:Salina Regular
+FileLength:51224
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SFMoviePoster
+FamilyName:SF Movie Poster
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:SF Movie Poster
+WritingScript:Roman
+WinName:SF Movie Poster
+FileLength:26436
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Skinny
+FamilyName:Skinny
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Skinny Regular
+WritingScript:Roman
+WinName:Skinny Regular
+FileLength:70572
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Snowdrift
+FamilyName:Snowdrift
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Snowdrift
+WritingScript:Roman
+WinName:Snowdrift
+FileLength:75632
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Splash
+FamilyName:Splash
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Splash Regular
+WritingScript:Roman
+WinName:Splash Regular
+FileLength:50228
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Stephen
+FamilyName:Stephen
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Stephen Regular
+WritingScript:Roman
+WinName:Stephen Regular
+FileLength:41832
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:SteppesTT
+FamilyName:Steppes TT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Steppes TT
+WritingScript:Roman
+WinName:Steppes TT
+FileLength:15976
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Tarzan
+FamilyName:Tarzan
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Tarzan Regular
+WritingScript:Roman
+WinName:Tarzan Regular
+FileLength:35032
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TerminatorTwo
+FamilyName:Terminator Two
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Terminator Two
+WritingScript:Roman
+WinName:Terminator Two
+FileLength:29340
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Toledo
+FamilyName:Toledo
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Toledo Regular
+WritingScript:Roman
+WinName:Toledo Regular
+FileLength:63468
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Valken
+FamilyName:Valken
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Valken Regular
+WritingScript:Roman
+WinName:Valken Regular
+FileLength:50188
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Vivian
+FamilyName:Vivian
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Vivian Regular
+WritingScript:Roman
+WinName:Vivian Regular
+FileLength:53800
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Waverly
+FamilyName:Waverly
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Waverly Regular
+WritingScript:Roman
+WinName:Waverly Regular
+FileLength:87188
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:WhimsyTT
+FamilyName:Whimsy TT
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Whimsy TT
+WritingScript:Roman
+WinName:Whimsy TT
+FileLength:15584
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Woodcut
+FamilyName:Woodcut
+StyleName:Regular
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:Woodcut
+WritingScript:Roman
+WinName:Woodcut
+FileLength:147656
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:X-Files-Regular
+FamilyName:X-Files
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:X-Files
+WritingScript:Roman
+WinName:X-Files
+FileLength:23276
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Yearsupplyoffairycakes
+FamilyName:Year supply of fairy cakes
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Year supply of fairy cakes
+WritingScript:Roman
+WinName:Year supply of fairy cakes
+FileLength:32628
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lato Regular
+WritingScript:Roman
+WinName:Lato Regular
+FileLength:607720
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Lato Bold
+WritingScript:Roman
+WinName:Lato Bold
+FileLength:600856
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lato-BoldItalic
+FamilyName:Lato
+StyleName:Bold Italic
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Lato Bold Italic
+WritingScript:Roman
+WinName:Lato Bold Italic
+FileLength:622572
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lato-Italic
+FamilyName:Lato
+StyleName:Italic
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Lato Italic
+WritingScript:Roman
+WinName:Lato Italic
+FileLength:639388
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lato-Light
+FamilyName:Lato
+StyleName:Light
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Lato Light
+WritingScript:Roman
+WinName:Lato Light
+FileLength:617492
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lato-LightItalic
+FamilyName:Lato
+StyleName:Light Italic
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Lato Light Italic
+WritingScript:Roman
+WinName:Lato Light Italic
+FileLength:628640
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lato-Semibold
+FamilyName:Lato
+StyleName:Semibold
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Lato Semibold
+WritingScript:Roman
+WinName:Lato Semibold
+FileLength:614256
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lato-SemiboldItalic
+FamilyName:Lato
+StyleName:Semibold Italic
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Lato Semibold Italic
+WritingScript:Roman
+WinName:Lato Semibold Italic
+FileLength:630852
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HeroesAssembleCondensed
+FamilyName:Heroes Assemble Condensed
+StyleName:Condensed
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Heroes Assemble Condensed
+WritingScript:Roman
+WinName:Heroes Assemble Condensed
+FileLength:78704
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HeroesAssembleCondensedItalic
+FamilyName:Heroes Assemble Condensed Italic
+StyleName:Condensed Italic
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:Heroes Assemble Condensed Italic
+WritingScript:Roman
+WinName:Heroes Assemble Condensed Italic
+FileLength:71860
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:HeroesAssembleBold
+FamilyName:Heroes Assemble Bold
+StyleName:Bold
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Heroes Assemble Bold
+WritingScript:Roman
+WinName:Heroes Assemble Bold
+FileLength:80240
+%EndFont
+

@@ -1,0 +1,25 @@
+%!Adobe-FontList 1.09
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CMap
+CMapName:Identity-H
+Registry:Adobe
+Ordering:Identity
+OutlineFileName:D:\Programas\AdobeAcrobat7.0\Resource\CMap\Identity-H
+FileLength:6716
+FileModTime:971088290
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CMap
+CMapName:Identity-V
+Registry:Adobe
+Ordering:Identity
+UseCMap:Identity-H
+OutlineFileName:D:\Programas\AdobeAcrobat7.0\Resource\CMap\Identity-V
+FileLength:1249
+FileModTime:971088290
+%EndFont
+
