@@ -2,6 +2,6 @@ Parte			RGB 			Dimensiones 624 x 890
 Background		230 230 155
 Borde			255 72  0
 Rareza común 		107 107 107
-Fuente título		Harvest	24px
-Fuente descripciones	Arial 	14px
-Fuente tipo		18px
+Fuente título		indefinido aún
+Fuente descripciones	Arial 	28px
+Fuente tipo/coste	Arial   36px

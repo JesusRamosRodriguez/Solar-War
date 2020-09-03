@@ -4,5 +4,5 @@ Borde			100 45  255
 Rareza común 		107 107 107
 Caja stats		193 193 193
 Fuente título		Salina 48px
-Fuente descripciones	Arial 	36px
-Fuente tipo		18px
+Fuente descripciones	Arial 	28px
+Fuente tipo/coste	Arial   36px
