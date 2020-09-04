@@ -1,0 +1,27 @@
+Reglamento v0.01
+Los mazos constan de 30 cartas de juego (criaturas, trampas, blast, habilidades),
+2 cartas de poder de nucleo, 3 cartas de heroe, 20 cartas de mana y 1 carta de nucleo.
+
+Los nucleos comienzan con 20 ptos de vida indicados con un dado.
+
+Se cogen 7 cartas del mazo, si lo desea se puede volver a coger cartas del mazo. Cada
+vez que se realice esta accion la mano debera de ser de una carta menos. El minimo de cartas 
+para comenzar es de 4 cartas en mano.
+
+Mediante el lanzamiento de un dado se decide quien comienza.
+
+Los turnos tienen la sigiuentes estructura:
+- Manteniemiento:Los mana se resetean y se roba una carta del mazo si se desea se debe poner la carta de mana en juego ahora.
+- Despliegue: Se juegan las cartas que se deseen.
+- Preparacion de ataque: Se indican que cartas defienden y que cartas atacan (*)
+*(Las cartas de defensa se colocaran horizontalmente, las de ataque vertical, la posicion en la que
+se encuentren las cartas no se puede modificar hasta la siguiente fase de preparacion. Una vez preparado
+ el ataque y declarada la defensa se procede al ataque)
+- Ataque: El jugador ataca al nucleo enemigo con las cartas que tenga en posicion de ataque, el defenso decide administrar su defensa como
+crea conveniente con las cartas que tenia en la posicion de defensa.
+- Finalizacion de turno: Una vez tengan efecto las habilidades o efectos de cartas pertinentes en funcion del juego (si procede) se cede el turno al oponente.
+
+
+Ganador: Gana el jugador que consiga poner la vida del nucleo enemigo por debajo de cero.
+
+Las cartas de mana estan dentro del mazo se pueden desplegar como maximo una por turno y unicamente en la fase de mantenimiento.
